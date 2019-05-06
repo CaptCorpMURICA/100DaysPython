@@ -1,5 +1,5 @@
 # 100DaysPython
-This exercise is based off the 100 Days of Code framework found here: https://www.100daysofcode.com/. This repo is segmented into 7 modules of two weeks each. The framework of this exercise was taken from Alexander Kallaway here: https://github.com/kallaway/100-days-of-code.
+This exercise is based off the 100 Days of Code framework found [here](https://www.100daysofcode.com/). This repo is segmented into 7 modules of two weeks each. The framework of this exercise was taken from Alexander Kallaway [here](https://github.com/kallaway/100-days-of-code).
 
 # I've joined the #100DaysOfCode Challenge
 
@@ -33,5 +33,5 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@CaptCorpMURICA](https://twitter.com/CaptCorpMURICA)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
