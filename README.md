@@ -10,3 +10,14 @@ Add:
 4. Resources page that contains information about excellent free options to assist in the process.
 5. ???
 6. Profit
+
+## Module Ideas:
+1. VCS (2-3 Days)
+2. Documentation
+3. Automation
+4. Machine Learning (1-2 modules)
+5. Data Cleansing using datasets from Kaggle (1-2 Weeks)
+6. Debugging/Logging
+7. Package Development (Last module if I run out of ideas)
+8. PyTest
+9. Every seven days is a challenge
