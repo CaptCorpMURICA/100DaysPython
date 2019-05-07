@@ -1,29 +1,29 @@
 # Module 1
-## Day 1: Printing in Python
+## Day 1: Installing Python
 **Instructions:** 
 
-## Day 2: Variables & Variable Types
+## Day 2: Printing in Python
 **Instructions:** 
 
-## Day 3: Operators
+## Day 3: Variables & Variable Types
 **Instructions:** 
 
-## Day 4: Working with Strings
+## Day 4: Operators
 **Instructions:** 
 
-## Day 5: User Input
+## Day 5: Working with Strings
 **Instructions:** 
 
-## Day 6: Basic Functions
+## Day 6: User Input
 **Instructions:** 
 
-## Day 7: 
+## Day 7: Packages Basics
 **Instructions:** 
 
-## Day 8: 
+## Day 8: Basic Functions
 **Instructions:** 
 
-## Day 9: 
+## Day 9: Basic Modules
 **Instructions:** 
 
 ## Day 10: 
