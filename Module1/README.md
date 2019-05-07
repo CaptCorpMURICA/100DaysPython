@@ -1,4 +1,4 @@
-# Python Basics
+# Module 1
 ## Day 1: Printing in Python
 **Instructions:** 
 
