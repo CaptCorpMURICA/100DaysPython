@@ -21,3 +21,6 @@ Add:
 7. Package Development (Last module if I run out of ideas)
 8. PyTest
 9. Every seven days is a challenge
+10. Recursion vs loops
+11. Fibonacci sequence
+12. Hanoi Tower
