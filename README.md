@@ -35,13 +35,13 @@ There are a substantial number of locations online to obtain datasets. These var
 ### General
 1. [100 Days of Code](https://www.100daysofcode.com/resources/)
 2. [Packt Publishing](https://www.packtpub.com/packt/offers/free-learning): Free daily tech learning materials (ebooks and videos)
-3. [Udemy](www.udemy.com): Online learning platform that offers courses for <$12 (never buy full price)
+3. [Udemy](https://www.udemy.com/): Online learning platform that offers courses for <$12 (never buy full price)
 4. [Coursera](https://www.coursera.org/)
 5. [GitHub Learning Labs](https://lab.github.com/courses): A good resource for learning how to leverage GitHub
 6. [Learn Python](https://www.learnpython.org/)
 7. Your two most used resources in the technology fields:
-  * [StackOverflow](www.stackoverflow.com): The Google of the Programmer
-  * [Google](www.google.com): The actual Google for the Programmer
+  * [StackOverflow](https://stackoverflow.com/): The Google of the Programmer
+  * [Google](https://www.google.com/): The actual Google for the Programmer
 8. [Tech articles](https://www.medium.com/topic/programming)
 9. [Reddit](https://www.reddit.com/r/python)
 10. Podcasts:
