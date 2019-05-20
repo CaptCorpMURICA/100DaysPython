@@ -40,6 +40,6 @@
     2. Add `\t` for a tab in a string.  
        _Type and execute_ `print("\tThe text can also be indented")`
     3. Use the `r` before the quote to print the raw string.  
-       _Type and execute_ `print("C:\newFolder")`
+       _Type and execute_ `print("C:\newFolder")`  
        _Type and execute_ `print(r"C:\newFolder")`
 5. Update the log file with what you have learned today.
