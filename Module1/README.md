@@ -11,7 +11,7 @@
   * [Anaconda](https://docs.anaconda.com/anaconda/install/)
   * [PyCharm](https://www.jetbrains.com/pycharm/documentation/)
   * [VS Code](https://code.visualstudio.com/docs)
-4. _Hello World:_ This will be the only time in your life that you try something new for the first time and it works perfectly. The _Hello World_ exercise is just to validate that everything is installed and working properly.
+4. _Hello World:_ The _Hello World_ exercise is just to validate that everything is installed and working properly.
   1. Open the IDE you just installed and follow the instructions applicable to that choice to create a new python script file.
   2. Type `print("Hello World!)` in the script window.
   3. Execute the script
