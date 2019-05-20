@@ -15,6 +15,17 @@ Python is an excellent language for software development, web development, autom
 4. Upload any created during the day's exercise with the format: _moduleX\_dayX\_topic.py_ for python scripts or _moduleX\_dayX\_topic.ipynb_ for Jupyter Notebook files
 5. Get into the practice of commenting your code to explain the expected output or function.
 
+## Table of Contents
+1. [Resouces](../master/resources.md)
+2. [Log File](../master/log.md)
+3. [Module 1](../master/Module1/README.md)
+4. [Module 2](../master/Module2/README.md)
+5. [Module 3](../master/Module3/README.md)
+6. [Module 4](../master/Module4/README.md)
+7. [Module 5](../master/Module5/README.md)
+8. [Module 6](../master/Module6/README.md)
+9. [Module 7](../master/Module7/README.md)
+
 ## Add:
 1. ~~Instructions on how to do 100 Days of Python~~
 2. Table of Contents for each module. The README file in the appropriate module folder will contain the daily tasks and instructions for those two weeks.
