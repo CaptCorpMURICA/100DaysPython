@@ -24,7 +24,7 @@
     1. Use the `+` to concatenate strings.  
        _Type and execute_ `print("Python" + ": It's a fun language to learn")`
     2. Use the `\` to escape special character.  
-       _Type and execute_ `print("\"This is a quote.\"")`
+       _Type and execute_ `print("\"This is a quote.\"")`  
        _Type and execute_ `print("C:\\newFolder")`
     3. Use the `"` or `'` to quote strings. Single and double quotes work in the same fashion, but the start and end quotes must match. If double quotes are used, single quotes within the string do not need to be escaped.  
        _Type and execute_ `print("That's right. Python is cool.")`
