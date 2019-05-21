@@ -1,4 +1,4 @@
-## Day 2: Printing in Python
+# Day 2: Printing in Python
 **Instructions:** 
 1. Open a new python file.
 2. The print statement can be used to display strings.  
