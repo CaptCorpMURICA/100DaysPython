@@ -1,48 +1,17 @@
 # Module 7
-## Day 85: 
-**Instructions:** 
-
-## Day 86: 
-**Instructions:** 
-
-## Day 87: 
-**Instructions:** 
-
-## Day 88: 
-**Instructions:** 
-
-## Day 89: 
-**Instructions:** 
-
-## Day 90: 
-**Instructions:** 
-
-## Day 91: 
-**Instructions:** 
-
-## Day 92: 
-**Instructions:** 
-
-## Day 93: 
-**Instructions:** 
-
-## Day 94: 
-**Instructions:** 
-
-## Day 95: 
-**Instructions:** 
-
-## Day 96: 
-**Instructions:** 
-
-## Day 97: 
-**Instructions:** 
-
-## Day 98: 
-**Instructions:** 
-
-## Day 99: 
-**Instructions:** 
-
-## Day 100: 
-**Instructions:** 
+* [Day 85: ](../Module7/Day85)
+* [Day 86: ](../Module7/Day86)
+* [Day 87: ](../Module7/Day87)
+* [Day 88: ](../Module7/Day88)
+* [Day 89: ](../Module7/Day89)
+* [Day 90: ](../Module7/Day90)
+* [Day 91: ](../Module7/Day91)
+* [Day 92: ](../Module7/Day92)
+* [Day 93: ](../Module7/Day93)
+* [Day 94: ](../Module7/Day94)
+* [Day 95: ](../Module7/Day95)
+* [Day 96: ](../Module7/Day96)
+* [Day 97: ](../Module7/Day97)
+* [Day 98: Module 7 Challenge](../Module7/Day98)
+* [Day 99: Capstone Project Part 1](../Module7/Capstone)
+* [Day 100: Capstone Project Part 2](../Module7/Capstone)
