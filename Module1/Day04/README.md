@@ -1,4 +1,4 @@
-## Day 4: Variables & Variable Types
+# Day 4: Variables & Variable Types
 **Instructions:** 
 1. Open a new python file.
 2. Variables need to start with a letter or an underscore. Numbers can be used in the variable name as long as it is not the first character. Additionally, python is case sensitive, so the same word can store multiple items as long as the casing differs. _Type and execute:_  
