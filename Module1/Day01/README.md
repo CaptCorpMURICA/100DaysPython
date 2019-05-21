@@ -14,4 +14,4 @@
     2. Type `print("Hello World!)` in the script window.
     3. Execute the script
     4. Congratulations. You just ran your first python program.
-5. Update the log file with what you have learned today.
+5. Update the [log file](../../log.md) with what you have learned today.
