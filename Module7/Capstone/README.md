@@ -1,7 +1,7 @@
 # Capstone Project
 **Instructions:** 
 
-Use the information learned over the past three months to come up with a project using python. There are no limitations on the project or it's scope. If you complete the project in a single day, then revisit the drawing board and improve the functionality for the second day. If you cannot complete the project in the two days provided, then continue to work on it until it's complete.
+Use the information learned over the past three months to come up with a project using python. There are no limitations on the project or it's scope. If you cannot complete the project in the two days provided, then continue to work on it until it's complete.
 
 This is your time to solidify your learning and creating something you are passionate about. **Once you complete your project, write an article for your LinkedIn profile describing your progress through the 100 Days of Python.** Tell the story of your quest for pythonic greatness. At the culmination of the story, describe your capstone project and provide links to your GitHub containing the final product.
 
