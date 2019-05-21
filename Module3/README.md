@@ -1,42 +1,15 @@
 # Module 3
-## Day 29: 
-**Instructions:** 
-
-## Day 30: 
-**Instructions:** 
-
-## Day 31: 
-**Instructions:** 
-
-## Day 32: 
-**Instructions:** 
-
-## Day 33: 
-**Instructions:** 
-
-## Day 34: 
-**Instructions:** 
-
-## Day 35: 
-**Instructions:** 
-
-## Day 36: 
-**Instructions:** 
-
-## Day 37: 
-**Instructions:** 
-
-## Day 38: 
-**Instructions:** 
-
-## Day 39: 
-**Instructions:** 
-
-## Day 40: 
-**Instructions:** 
-
-## Day 41: 
-**Instructions:** 
-
-## Day 42: 
-**Instructions:** 
+* [Day 29: ](../Module3/Day29)
+* [Day 30: ](../Module3/Day30)
+* [Day 31: ](../Module3/Day31)
+* [Day 32: ](../Module3/Day32)
+* [Day 33: ](../Module3/Day33)
+* [Day 34: ](../Module3/Day34)
+* [Day 35: ](../Module3/Day35)
+* [Day 36: ](../Module3/Day36)
+* [Day 37: ](../Module3/Day37)
+* [Day 38: ](../Module3/Day38)
+* [Day 39: ](../Module3/Day39)
+* [Day 40: ](../Module3/Day40)
+* [Day 41: ](../Module3/Day41)
+* [Day 42: Module 3 Challenge](../Module3/Day42)
