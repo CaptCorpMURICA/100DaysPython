@@ -12,7 +12,7 @@ Python is an excellent language for software development, web development, autom
 1. Fork this GitHub repo into your own account.
 2. The exercise is segmented in to seven modules that each span 2 weeks. You should expect to spend _One Hour_ each day on average.
 3. At the conclusion of each day, modify the [log file](../master/log.md) with the topic, completion date, and what you learned.
-4. Upload any created during the day's exercise with the format: _moduleX\_dayX\_topic.py_ for python scripts or _moduleX\_dayX\_topic.ipynb_ for Jupyter Notebook files
+4. Upload any created during the day's exercise with the format: **_moduleX\_dayX\_topic.py_** for python scripts or **_moduleX\_dayX\_topic.ipynb_** for Jupyter Notebook files
 5. Get into the practice of commenting your code to explain the expected output or function.
 
 ## Table of Contents
