@@ -1,8 +1,8 @@
 # Module 1
 * [Day 1: Installing Python](../Module1/Day01)
 * [Day 2: Printing in Python](../Module1/Day02)
-* [Day 3: Variables & Variable Types](../Module1/Day03)
-* [Day 4: Operators](../Module1/Day04)
+* [Day 3: Operators](../Module1/Day03)
+* [Day 4: Variables & Variable Types](../Module1/Day04)
 * [Day 5: Working with Strings](../Module1/Day05)
 * [Day 6: User Input](../Module1/Day06)
 * [Day 7: Packages Basics](../Module1/Day07)
