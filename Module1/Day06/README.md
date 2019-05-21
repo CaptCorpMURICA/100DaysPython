@@ -1,3 +1,4 @@
-## Day 6: User Input
+## Day 6: If/Else
 **Instructions:** 
 1. Open a new python file.
+2. Update the log file with what you have learned today.
