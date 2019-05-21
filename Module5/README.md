@@ -1,42 +1,15 @@
 # Module 5
-## Day 57: 
-**Instructions:** 
-
-## Day 58: 
-**Instructions:** 
-
-## Day 59: 
-**Instructions:** 
-
-## Day 60: 
-**Instructions:** 
-
-## Day 61: 
-**Instructions:** 
-
-## Day 62: 
-**Instructions:** 
-
-## Day 63: 
-**Instructions:** 
-
-## Day 64: 
-**Instructions:** 
-
-## Day 65: 
-**Instructions:** 
-
-## Day 66: 
-**Instructions:** 
-
-## Day 67: 
-**Instructions:** 
-
-## Day 68: 
-**Instructions:** 
-
-## Day 69: 
-**Instructions:** 
-
-## Day 70: 
-**Instructions:** 
+* [Day 57: ](../Module5/Day57)
+* [Day 58: ](../Module5/Day58)
+* [Day 59: ](../Module5/Day59)
+* [Day 60: ](../Module5/Day60)
+* [Day 61: ](../Module5/Day61)
+* [Day 62: ](../Module5/Day62)
+* [Day 63: ](../Module5/Day63)
+* [Day 64: ](../Module5/Day64)
+* [Day 65: ](../Module5/Day65)
+* [Day 66: ](../Module5/Day66)
+* [Day 67: ](../Module5/Day67)
+* [Day 68: ](../Module5/Day68)
+* [Day 69: ](../Module5/Day69)
+* [Day 70: Module 5 Challenge](../Module5/Day70)
