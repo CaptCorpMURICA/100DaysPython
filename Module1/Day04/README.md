@@ -16,6 +16,6 @@
    `a = 3`  
    `b = 4`  
    `c = a ** 2 + b ** 2`  
-   `print("Pythagorean Theorem: a^2 + b^2 = c^2, so when a = {} and b = {}, then c = {}".format(a, b, c))
+   `print("Pythagorean Theorem: a^2 + b^2 = c^2, so when a = {} and b = {}, then c = {}".format(a, b, c))`
 5. 
 6. Update the log file with what you have learned today.
