@@ -1,4 +1,4 @@
-## Day 3: Operators
+# Day 3: Operators
 **Instructions:** 
 1. Open a new python file.
 2. Numeric Functionality:  
