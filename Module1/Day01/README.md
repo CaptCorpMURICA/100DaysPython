@@ -1,4 +1,4 @@
-## Day 1: Installing Python
+# Day 1: Installing Python
 **Instructions:**
 1. _Install the python interpreter:_ Go to [python.org](https://www.python.org/downloads/) and download python applicable to your system and install it on your machine.
 2. _Download the Integrated Development Environment (IDE) of your choice. Here are a couple of options:_
