@@ -1,42 +1,15 @@
 # Module 2
-## Day 15: 
-**Instructions:** 
-
-## Day 16: 
-**Instructions:** 
-
-## Day 17: 
-**Instructions:** 
-
-## Day 18: 
-**Instructions:** 
-
-## Day 19: 
-**Instructions:** 
-
-## Day 20: 
-**Instructions:** 
-
-## Day 21: 
-**Instructions:** 
-
-## Day 22: 
-**Instructions:** 
-
-## Day 23: 
-**Instructions:** 
-
-## Day 24: 
-**Instructions:** 
-
-## Day 25: 
-**Instructions:** 
-
-## Day 26: 
-**Instructions:** 
-
-## Day 27: 
-**Instructions:** 
-
-## Day 28: 
-**Instructions:** 
+* [Day 15: ](../Module2/Day15)
+* [Day 16: ](../Module2/Day16)
+* [Day 17: ](../Module2/Day17)
+* [Day 18: ](../Module2/Day18)
+* [Day 19: ](../Module2/Day19)
+* [Day 20: ](../Module2/Day20)
+* [Day 21: ](../Module2/Day21)
+* [Day 22: ](../Module2/Day22)
+* [Day 23: ](../Module2/Day23)
+* [Day 24: ](../Module2/Day24)
+* [Day 25: ](../Module2/Day25)
+* [Day 26: ](../Module2/Day26)
+* [Day 27: ](../Module2/Day27)
+* [Day 28: Module 2 Challenge](../Module2/Day28)
