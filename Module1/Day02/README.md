@@ -19,4 +19,4 @@
    _Type and execute_ `print("The number of the {} shall be {}. No more. No less".format("counting", 3))`
 10. The replacements can also be done using integer locations. **_As a note:_** Python starts counting at 0. The integers provide the location within the format() function in which to use for replacement.  
    _Type and execute_ `print("The number of the {1} shall be {0}. No more. No less".format(3, "counting"))`
-11. Update the log file with what you have learned today.
+11. Update the [log file](../../log.md) with what you have learned today.
