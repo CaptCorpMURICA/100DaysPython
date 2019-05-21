@@ -42,4 +42,4 @@
     3. Use the `r` before the quote to print the raw string.  
        _Type and execute_ `print("C:\newFolder")`  
        _Type and execute_ `print(r"C:\newFolder")`
-5. Update the log file with what you have learned today.
+5. Update the [log file](../../log.md) with what you have learned today.
