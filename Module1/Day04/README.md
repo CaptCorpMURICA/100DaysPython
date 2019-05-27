@@ -3,11 +3,11 @@
 1. Open a new python file.
 2. Variables need to start with a letter or an underscore. Numbers can be used in the variable name as long as it is not the first character. Additionally, python is case sensitive, so the same word can store multiple items as long as the casing differs. _Type and execute:_  
    `greeting = "Hello"`  
-   `_name = "Kenobi"`  
+   `_name = "General Kenobi."`  
    `Greeting = "There"`  
-   `_bestLine_ep3_ = "General"`  
-   _Using string concatenation:_ `print(greeting + " " + Greeting + "\n\t" + _bestLine_ep3_ + " " + _name)`  
-   _Using string replacement:_ `print("{} {}\n\t{} {}".format(greeting, Greeting, _bestLine_ep3_, _name))`
+   `_bestLine_ep3_ = "You are a bold one."`  
+   _Using string concatenation:_ `print(greeting + " " + Greeting + "\n\t" + _name + " " + _bestLine_ep3_)`  
+   _Using string replacement:_ `print("{} {}\n\t{} {}".format(greeting, Greeting, _name, _bestLine_ep3_))`
 3. Variables can also store numeric values. _Type and execute:_  
    `released = 2005`  
    _Using string concatenation:_ `print("Revenge of the Sith was released on May 4, " + str(released) + ".")`  
