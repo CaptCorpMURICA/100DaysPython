@@ -18,8 +18,8 @@ Python is an excellent language for software development, web development, autom
 ## Table of Contents
 1. [Resouces](../master/resources.md)
 2. [Log File](../master/log.md)
-3. [Module 1](../master/Module1/README.md)
-4. [Module 2](../master/Module2/README.md)
+3. [Module 1: Foundational Python I](../master/Module1/README.md)
+4. [Module 2: Foundational Python II](../master/Module2/README.md)
 5. [Module 3](../master/Module3/README.md)
 6. [Module 4](../master/Module4/README.md)
 7. [Module 5](../master/Module5/README.md)
