@@ -1,5 +1,3 @@
-# Under Development
-
 # 100 Days of Python
 This exercise is based off the [100 Days of Code framework](https://www.100daysofcode.com/) to teach the basics of python 3. Legacy python will be [deprecated on Jan 1, 2020](https://pythonclock.org/); therefore, this course will be based off the latest version of python.
 
