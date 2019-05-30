@@ -7,7 +7,7 @@
 * [Day 6: Lists](../Module1/Day06)
 * [Day 7: Ranges](../Module1/Day07)
 * [Day 8: Tuples](../Module1/Day08)
-* [Day 9: Slicing](../Module1/Day09)
+* [Day 9: Index and Slicing](../Module1/Day09)
 * [Day 10: If/Else](../Module1/Day10)
 * [Day 11: For/While Loops](../Module1/Day11)
 * [Day 12: Augmented Assignment](../Module1/Day12)

@@ -38,7 +38,7 @@
 
 **Learned:** 
 
-# Day 9: Slicing
+# Day 9: Index and Slicing
 **Completion Date:** 
 
 **Learned:** 

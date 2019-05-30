@@ -46,44 +46,39 @@
    `lines.append("YOGURT! I hate Yogurt! Even with strawberries!")`  
    `lines.append("We'll meet again in Spaceballs 2: The Quest for More Money.")`  
    `lines`
-11. Specific items can be retrieved from a list by using its indices and slicing. We will discuss slicing in more detail on [Day 9](../Module1/Day09). _Type and execute:_  
-   `lines[0]`  
-   `lines[0:2]`  
-   `lines[0:3:2]`  
-   `lines[::-1]`
-12. The index of a requested item can be obtained using the `.index()` method. _Type and execute:_  
+11. The index of a requested item can be obtained using the `.index()` method. _Type and execute:_  
    `luggage = [1, 2, 3, 4, 5]`  
    `luggage.index(2)`
-13. The frequency of an item in a list can be obtained by using the `.count()` method. This is case sensitive. _Type and execute:_  
+12. The frequency of an item in a list can be obtained by using the `.count()` method. This is case sensitive. _Type and execute:_  
    `quote = list("YOGURT! I hate Yogurt! Even with strawberries!")`  
    `quote.count("r")`
-14. The `.insert(index, item)` method can be used to add a new item to the list at a specific position. _Type and execute:_  
+13. The `.insert(index, item)` method can be used to add a new item to the list at a specific position. _Type and execute:_  
    `luggage = [1, 2, 4, 5]`  
    `luggage.insert(2, 3)`  
    `luggage`
-15. The `.pop(i)` method can be used to remove and return the final element, or from a specific index `i`. _Type and execute:_  
+14. The `.pop(i)` method can be used to remove and return the final element, or from a specific index `i`. _Type and execute:_  
    `luggage = [1, 2, 3, 3, 4, 5, 6]`  
    `luggage.pop()`  
    `luggage`  
    `luggage.pop(2)`  
    `luggage`
-16. The `.remove(i)` method eliminates a specific item (`i`) from the list. _Type and execute:_  
+15. The `.remove(i)` method eliminates a specific item (`i`) from the list. _Type and execute:_  
    `rng = list(range(0,10))`  
    `rng.remove(7)`  
    `rng`
-17. The `.reverse()` method reverses the order of the items in the list. _Type and execute:_  
+16. The `.reverse()` method reverses the order of the items in the list. _Type and execute:_  
    `countdown = [5, 4, 3, 2, 1]`  
    `countdown.reverse()`  
    `countdown`
-18. Python can conduct transformations to a list while declaring a new list. _Type and execute:_  
+17. Python can conduct transformations to a list while declaring a new list. _Type and execute:_  
    `sample = list(range(1,13))`  
    `times_12 = [i * 12 for i in sample]`  
    `times_12`
-19. A list can be cleared by using the `.clear()` method. _Type and execute:_  
+18. A list can be cleared by using the `.clear()` method. _Type and execute:_  
    `luggage.clear()`  
    `luggage`
-20. Since lists are mutable, items can be changed. _Type and execute:_  
+19. Since lists are mutable, items can be changed. _Type and execute:_  
    `luggage = [2, 2, 3, 4, 5]`  
    `luggage[0] = 1`  
    `luggage`
-21. Update the [log file](../../log.md) with what you have learned today.
+20. Update the [log file](../../log.md) with what you have learned today.
