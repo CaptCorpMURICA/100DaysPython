@@ -30,4 +30,9 @@
    `pi = 22 / 7`  
    `print("Pi as a float is {0:f}, as a float with a precision of 2 is {0:.2f}".format(pi))`  
    `print("The answer to life, the universe, and everything is {0:d} as an integer, or {0:=^10d} as a padded and centered integer".format(42))`
-9. For additional examples, review the [PyFormat](https://pyformat.info/) documentation. Update the [log file](../../log.md) with what you have learned today.
+9. For additional examples, review the [PyFormat](https://pyformat.info/) documentation.
+10. These same methodologies can be used with [f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings). _Type and execute:_  
+   `pi = 22 / 7`  
+   `print(f"Pi as a float is {pi:f}, as a float with a precision of 2 is {pi:.2f}")`  
+   `print(f"The answer to life, the universe, and everything is {42:d} as an integer, or {42:=^10d} as a padded and centered integer")`
+11. Update the [log file](../../log.md) with what you have learned today.
