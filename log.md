@@ -23,42 +23,42 @@
 
 **Learned:** 
 
-# Day 6: If/Else
+# Day 6: Lists
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 7: For/While Loops
+# Day 7: Ranges
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 8: Continue/Break
+# Day 8: Tuples
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 9: Augmented Assignment
+# Day 9: Slicing
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 10: Lists
+# Day 10: If/Else
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 11: Ranges
+# Day 11: For/While Loops
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 12: Slicing
+# Day 12: Augmented Assignment
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 13: Sets
+# Day 13: Continue/Break
 **Completion Date:** 
 
 **Learned:** 
