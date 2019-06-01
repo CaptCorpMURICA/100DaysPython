@@ -23,8 +23,8 @@ There are a substantial number of locations online to obtain datasets. These var
 5. [GitHub Learning Labs](https://lab.github.com/courses): A good resource for learning how to leverage GitHub
 6. [Learn Python](https://www.learnpython.org/)
 7. Your two most used resources in the technology fields:  
-  i. [StackOverflow](https://stackoverflow.com/): The Google of the Programmer  
-  ii. [Google](https://www.google.com/): The actual Google for the Programmer
+  i. [StackOverflow](https://stackoverflow.com/): The Google for the Programmer  
+  ii. [Google](https://www.google.com/): The _**ACTUAL**_ Google for the Programmer
 8. [Tech articles](https://www.medium.com/topic/programming)
 9. [Reddit](https://www.reddit.com/r/python)
 10. Podcasts:  

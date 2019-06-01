@@ -2,7 +2,7 @@
 **Instructions:** 
 1. Open a new python file.
 2. Specific items can be retrieved from a list by using its indices. _Type and execute:_  
-   `quotes = ["Pitter patter, let's get at 'er", "Hard no!", "H'are ya now?", "Good-n-you?", "Not so bad.", "Is that what you  appreciates about me?"]`    
+   `quotes = ["Pitter patter, let's get at 'er", "Hard no!", "H'are ya now?", "Good-n-you?", "Not so bad.", "Is that what you appreciates about me?"]`    
    `quotes[0]`  
    `print(f"{quotes[2]}\n\t{quotes[3]}\n{quotes[4]}")`
 3. Slicing uses the format `[start:stop:step]`. Start is _inclusive_, but stop is _exclusive_. Unlike using just the index, slicing allows the user to return a sequence rather than a single item. Slicing can be conducted on mutable and immutable objects. _Type and execute:_  
@@ -19,10 +19,12 @@
    `wayne[::-1]`
 8. Retrieval by index and slicing can also be applied directly to a string. _Type and execute:_  
    `"That's a Texas sized 10-4."[0:9:2]`
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. Update the [log file](../../log.md) with what you have learned today.
+9. Neither the start, nor the stop values are required when slicing. _Type and execute:_  
+   `quotes[:]`  
+   `quotes[3:]`  
+   `quotes[:3]`  
+   `quotes[::3]`
+10. New list can be created based on the slicing output. _Type and execute:_  
+   `exchange = quotes[2:5]`  
+   `print(exchange)`
+11. Update the [log file](../../log.md) with what you have learned today.
