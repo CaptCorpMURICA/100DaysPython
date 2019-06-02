@@ -18,7 +18,7 @@
 5. By using a specific step value, a range can be used to identify a collection of numbers divisible by a specific value. This example uses the `input()` function to prompt the user for input. It also used `if/elif/else` statements, which will be covered on [Day 10](../Module1/Day10). _Type and execute:_  
    `val = int(input("Please provide a whole number for the divisibility check: "))`  
    `request = int(input("Please provide a whole number, less than 1 million, that is to be tested for divisibility: "))`  
-   `in_range = range(val, 1000000, val)`
+   `in_range = range(val, 1000000, val)`  
    `if request > 1000000:`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("Please select a number less than 1 million and try again. Thank you")`  
    `elif request in in_range:`  
