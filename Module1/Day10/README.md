@@ -41,10 +41,10 @@
    `if awards.lower() == 'won':`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("Rocky won Oscars for Best Picture, Best Director, and Best Film Editing")`  
    `elif awards.lower() == 'nominated':`  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`movie = input("Which movie do you want to hear about, Rocky or Rocky III?)`
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`if movie.lower() == 'rocky':`
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`movie = input("Which movie do you want to hear about, Rocky or Rocky III?)`  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`if movie.lower() == 'rocky':`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("Rocky received Oscar nominations for Best Actor, Best Actress, two Best Supporting Actor, Best Original Screenplay, Best Original Song, and Best Sound.")`  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`if movie.lower() == 'rocky iii':`
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`if movie.lower() == 'rocky iii':`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("Rocky received Oscar an nomination for Best Original Song.")`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`else:`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("{} is not an acceptable entry.".format(awards))`  
