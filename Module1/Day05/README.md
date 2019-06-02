@@ -24,7 +24,7 @@
 6. Additional characters can be added to the padding as part of the format statement by adding the character after the colon. _Type and execute:_  
    `msg = "END OF CODE"`  
    `print("{:=^50}".format(msg))`
-7. Long strings can be truncated by using a number after a period. _Type and execute:_
+7. Long strings can be truncated by using a number after a period. _Type and execute:_  
    `print("{:.5}".format(cheers.capitalize()))`  
 8. Numbers can also be formatted to produce specific results. _Type and execute:_  
    `pi = 22 / 7`  
