@@ -11,7 +11,7 @@
     * [VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 4. _Hello World:_ The _Hello World_ exercise is just to validate that everything is installed and working properly.
     1. Open the IDE you just installed and follow the instructions applicable to that choice to create a new python script file.
-    2. Type `print("Hello World!)` in the script window.
+    2. Type `print("Hello World!")` in the script window.
     3. Execute the script
     4. Congratulations. You just ran your first python program.
 5. Update the [log file](../../log.md) with what you have learned today.
