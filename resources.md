@@ -14,6 +14,9 @@ There are a substantial number of locations online to obtain datasets. These var
 8. [UC Irvine](http://archive.ics.uci.edu/ml/datasets.php)
 9. [Medicare](https://data.medicare.gov/data/hospital-compare#)
 10. [Airbnb](http://insideairbnb.com/get-the-data.html)
+11. [Open Data Philly](https://www.opendataphilly.org)
+12. [St. Louis FED](https://fred.stlouisfed.org)
+13. [Zillow](https://www.zillow.com/research/data/)
 
 # General
 1. [100 Days of Code](https://www.100daysofcode.com/resources/)
