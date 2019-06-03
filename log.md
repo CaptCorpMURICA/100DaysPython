@@ -1,12 +1,12 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:** 2019-06-03 
 
-**Learned:** 
+**Learned:** Not sure if I'm using vim correctly in these scripts.  Had to install Git on it's own independent of GitHub.
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:** 2019-06-03 
 
-**Learned:** 
+**Learned:** Learned how to print in python and string replacement formatting.
 
 # Day 3: Operators
 **Completion Date:** 
