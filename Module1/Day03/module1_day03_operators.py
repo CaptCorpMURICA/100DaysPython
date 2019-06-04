@@ -52,3 +52,33 @@ print("\tThe text can also be indented")
 # Use the `r` before the quote to print the raw string.
 print("C:\newFolder")
 print(r"C:\newFolder")
+
+# Relational Operators:
+# Use the `==` operator to return True if the two expressions are equal and False if they are different.
+print(1 == 1)
+print(1 == 2)
+# Use the `!=` operator to return True if the two expressions are not equal and False if they are the same.
+print(1 != 1)
+print(1 != 2)
+# Use the `>` operator to return True if the left operand is greater than the right operand and False otherwise.
+print(1 > 1)
+print(1 > 2)
+# Use the `>=` operator to return True if the left operand is greater than or equal to the right operand and False
+# otherwise.
+print(1 >= 1)
+print(1 >= 2)
+# Use the `<` operator to return True if the left operand is less than the right operand and False otherwise.
+print(1 < 1)
+print(1 < 2)
+# Use the `<=` operator to return True if the left operand is less than or equal to the right operand and False
+# otherwise.
+print(1 <= 1)
+print(1 <= 2)
+
+# Boolean Operators:
+# The `and` operator returns False unless all conditions are True.
+print(True and False)
+# The `or` operator returns True unless all of the conditions are False.
+print(True or False)
+# The `not` operator returns the inverse of the boolean expression.
+print(not True)
