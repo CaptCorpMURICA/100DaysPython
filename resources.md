@@ -1,23 +1,3 @@
-# Datasets
-There are a substantial number of locations online to obtain datasets. These vary in complexity, but can be excellent resources for learning new techniques or creating new programs without needing to use company data. Here are ten places with readily available datasets.
-1. Federal Governments:  
-  i. [USA](https://catalog.data.gov/dataset)  
-  ii. [UK](https://gbr.databasesets.com/)  
-  iii. [EU](http://data.europa.eu/euodp/en/data/)  
-  iv. [Australia](https://data.gov.au/)
-2. [Kaggle](https://www.kaggle.com/datasets)
-3. [Google](https://toolbox.google.com/datasetsearch)
-4. [SEC Financial Statements](https://www.sec.gov/dera/data/financial-statement-data-sets.html)
-5. [FBI Crime Statistics](https://ucr.fbi.gov/crime-in-the-u.s)
-6. [CDC](https://www.cdc.gov/datastatistics/index.html)
-7. [Census](https://www.census.gov/data.html)
-8. [UC Irvine](http://archive.ics.uci.edu/ml/datasets.php)
-9. [Medicare](https://data.medicare.gov/data/hospital-compare#)
-10. [Airbnb](http://insideairbnb.com/get-the-data.html)
-11. [Open Data Philly](https://www.opendataphilly.org)
-12. [St. Louis FED](https://fred.stlouisfed.org)
-13. [Zillow](https://www.zillow.com/research/data/)
-
 # General
 1. [100 Days of Code](https://www.100daysofcode.com/resources/)
 2. [Packt Publishing](https://www.packtpub.com/packt/offers/free-learning): Free daily tech learning materials (ebooks and videos)
@@ -37,3 +17,25 @@ There are a substantial number of locations online to obtain datasets. These var
   iv. [Super Data Science Podcast](https://www.superdatascience.com/podcast/)  
   v. [Python.\_\_init\_\_](https://www.pythonpodcast.com/)  
   vi. [Import This](https://www.kennethreitz.org/import-this/)
+11. [Python Reference (The Right Way)](https://python-reference.readthedocs.io/en/latest/)
+12. [Official Python 3 Documentation](https://docs.python.org/3/)
+
+# Datasets
+There are a substantial number of locations online to obtain datasets. These vary in complexity, but can be excellent resources for learning new techniques or creating new programs without needing to use company data. Here are ten places with readily available datasets.
+1. Federal Governments:  
+  i. [USA](https://catalog.data.gov/dataset)  
+  ii. [UK](https://gbr.databasesets.com/)  
+  iii. [EU](http://data.europa.eu/euodp/en/data/)  
+  iv. [Australia](https://data.gov.au/)
+2. [Kaggle](https://www.kaggle.com/datasets)
+3. [Google](https://toolbox.google.com/datasetsearch)
+4. [SEC Financial Statements](https://www.sec.gov/dera/data/financial-statement-data-sets.html)
+5. [FBI Crime Statistics](https://ucr.fbi.gov/crime-in-the-u.s)
+6. [CDC](https://www.cdc.gov/datastatistics/index.html)
+7. [Census](https://www.census.gov/data.html)
+8. [UC Irvine](http://archive.ics.uci.edu/ml/datasets.php)
+9. [Medicare](https://data.medicare.gov/data/hospital-compare#)
+10. [Airbnb](http://insideairbnb.com/get-the-data.html)
+11. [Open Data Philly](https://www.opendataphilly.org)
+12. [St. Louis FED](https://fred.stlouisfed.org)
+13. [Zillow](https://www.zillow.com/research/data/)
