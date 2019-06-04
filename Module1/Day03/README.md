@@ -41,4 +41,30 @@
     3. Use the `r` before the quote to print the raw string. _Type and execute:_  
        `print("C:\newFolder")`  
        `print(r"C:\newFolder")`
-5. Update the [log file](../../log.md) with what you have learned today.
+5. Relational Operators:  
+    1. Use the `==` operator to return _True_ if the two expressions are equal and _False_ if they are different. _Type and execute:_  
+       `print(1 == 1)`  
+       `print(1 == 2)`
+    2. Use the `!=` operator to return _True_ if the two expressions are not equal and _False_ if they are the same. _Type and execute:_  
+       `print(1 != 1)`  
+       `print(1 != 2)`
+    3. Use the `>` operator to return _True_ if the left operand is greater than the right operand and _False_ otherwise. _Type and execute:_  
+       `print(1 > 1)`  
+       `print(1 > 2)`
+    4. Use the `>=` operator to return _True_ if the left operand is greater than or equal to the right operand and _False_ otherwise. _Type and execute:_  
+       `print(1 >= 1)`  
+       `print(1 >= 2)`
+    5. Use the `<` operator to return _True_ if the left operand is less than the right operand and _False_ otherwise. _Type and execute:_  
+       `print(1 < 1)`  
+       `print(1 < 2)`
+    6. Use the `<=` operator to return _True_ if the left operand is less than or equal to the right operand and _False_ otherwise. _Type and execute:_  
+       `print(1 <= 1)`  
+       `print(1 <= 2)`
+6. Boolean Operators:  
+    1. The `and` operator returns _False_ unless all conditions are _True_. _Type and execute:_  
+       `print(True and False)`
+    2. The `or` operator returns _True_ unless all of the conditions are _False_. _Type and execute:_  
+       `print(True or False)`
+    3. The `not` operator returns the inverse of the boolean expression. _Type and execute:_  
+       `print(not True)`
+7. Update the [log file](../../log.md) with what you have learned today.
