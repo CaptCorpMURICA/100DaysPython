@@ -48,12 +48,12 @@
 
 **Learned:** 
 
-# Day 11: For/While Loops
+# Day 11: Augmented Assignments
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 12: Augmented Assignment
+# Day 12: For/While Loops
 **Completion Date:** 
 
 **Learned:** 
