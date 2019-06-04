@@ -1,7 +1,7 @@
 # Day 1: Installing Python
 **Completion Date:** 6/4/2019
 
-**Learned:** Installing Git, Forking a Repo, Getting started in Anaconda, launching a Jupyter notebook from the command line, saving a script to the GitHub repo 
+**Learned:** Installing Git, Forking a Repo, Getting started in VS Code. Saving a script to the GitHub repo. 
 
 # Day 2: Printing in Python
 **Completion Date:** 
