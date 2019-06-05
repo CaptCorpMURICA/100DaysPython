@@ -9,9 +9,9 @@
 **Learned:** Creating a new file in VS Code, print statements, string replacement formatting, f-strings.
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:** 6/5/2019
 
-**Learned:** 
+**Learned:** Numeric and String Functionality, Newlines and Tabs, Relational and Boolean Operators 
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
