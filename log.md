@@ -1,12 +1,12 @@
 # Day 1: Installing Python
 **Completion Date:** 6/4/2019
 
-**Learned:** Installing Git, Forking a Repo, Getting started in VS Code. Saving a script to the GitHub repo. 
+**Learned:** Installing Git, Forking a Repo, Getting started in VS Code, Saving a script to the GitHub repo. 
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:** 6/5/2019
 
-**Learned:** 
+**Learned:** Creating a new file in VS Code, print statements, string replacement formatting, f-strings.
 
 # Day 3: Operators
 **Completion Date:** 
