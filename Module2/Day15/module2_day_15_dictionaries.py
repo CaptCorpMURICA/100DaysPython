@@ -43,9 +43,18 @@ d_ministry1 = {"a": "silly", "b": "walks"}
 d_ministry2 = {"b": "walks", "a": "silly"}
 d_ministry1 == d_ministry2
 
-# The keys and values of the dictionary can be called using the `keys()` and `values()` methods.
+# The keys and values of the dictionary can be called using the `keys()` and `values()` methods. The key/value pairs can
+# also be returned with the `items()` method. These three methods return the respective output in list-like fashion.
+# This allows the dictionary to be used efficiently in loops.
 print(menu.keys())
 print(menu.values())
+print(menu.items())
+for k in menu.keys():
+    print(k)
+for v in menu.values():
+    print(v)
+for i in menu.items():
+    print(i)
 
 # A dictionary can be sorted by using the `keys()` or `values()` method and converting the output to a list. This list
 # can be sorted and displayed for the user.
@@ -77,3 +86,20 @@ print(type(menu_tuple[0][1][1]))
 # Instead of implementing triple slicing to get some spam, let's use the dictionary to obtain the same result.
 print(menu["item1"][1])
 print(menu_tuple[0][1][1] == menu["item1"][1])
+
+# The `get()` method is a way to retrieve a value from a key, but also contain a default value if no key is found.
+order = "item6"
+if menu.get(order, 0) == 0:
+    print("{} is not a valid dish. Please try again.".format(order))
+else:
+    print("{} contains {}".format(order, menu.get(order)))
+
+# The `setdefault()` method is used to create a default key/value combination for a dictionary. This is useful for
+# applications where verbose data is required, but all of the information is not available. If the dictionary already
+# contains a key by the default's name, the value is not changed by the default.
+transportation = {"name": "coconut", "color": "brown"}
+print(transportation.items())
+transportation.setdefault("received_by", "swallow")
+print(transportation.items())
+transportation.setdefault("received_by", "found_on_ground")
+print(transportation.items())
