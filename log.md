@@ -9,39 +9,39 @@
 **Learned:** Learned how to print in python and string replacement formatting.
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:** 2019-06-04 
 
-**Learned:** 
+**Learned:** Operators for numeric and string functionality.  Also learned about newlines and tabs.
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date:** 2019-06-04 
 
-**Learned:** 
+**Learned:** Python variables are case sensitive. How to test for contents in a variable and that variables are mutable.
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date:** 2019-06-04 
 
-**Learned:** 
+**Learned:** String formatting can be complex.
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** 2019-06-05 
 
-**Learned:** 
+**Learned:** All about lists and how to manipulate those lists.
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:** 2019-06-06 
 
-**Learned:** 
+**Learned:** Syntax for ranges.
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:** 2019-06-06
 
-**Learned:** 
+**Learned:** About tuples and the differences compared to lists.
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date:** 2019-06-06
 
-**Learned:** 
+**Learned:** Indexing and slicing, need to figure out if print is required after every statement or if there should be output without it.
 
 # Day 10: If/Else
 **Completion Date:** 
