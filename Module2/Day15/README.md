@@ -53,5 +53,18 @@
     `print(type(menu_tuple[0][1][1]))`
 9. Instead of implementing triple slicing to get some spam, let's use the dictionary to obtain the same result. _Type and execute:_  
     `print(menu["item1"][1])`  
-    `print(menu_tuple[0][1][1] == menu["item1"][1])` 
-10. Update the [log file](../../log.md) with what you have learned today.
+    `print(menu_tuple[0][1][1] == menu["item1"][1])`
+10. The `get()` method is a way to retrieve a value from a key, but also contain a default value if no key is found. _Type and execute:_  
+   `order = "item6"`  
+   `if menu.get(order, 0) == 0:`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("{} is not a valid dish. Please try again.".format(order))`  
+   `else:`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`print("{} contains {}".format(order, menu.get(order)))`  
+11. The `setdefault()` method is used to create a default key/value combination for a dictionary. This is useful for applications where verbose data is required, but all of the information is not available. If the dictionary already contains a key by the default's name, the value is not changed by the default. _Type and execute:_  
+`transportation = {"name": "coconut", "color": "brown"}`  
+`print(transportation.items())`  
+`transportation.setdefault("received_by", "swallow")`  
+`print(transportation.items())`  
+`transportation.setdefault("received_by", "found_on_ground")`  
+`print(transportation.items())`
+12. Update the [log file](../../log.md) with what you have learned today.
