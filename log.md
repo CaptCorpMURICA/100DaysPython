@@ -14,9 +14,9 @@
 **Learned:** Numeric and String Functionality, Newlines and Tabs, Relational and Boolean Operators 
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date:** 6/6/2019
 
-**Learned:** 
+**Learned:** Declaring variables, Using variables in arithmetic operations, Testing for contents in a variable, Changing variable types
 
 # Day 5: String Formatting
 **Completion Date:** 
