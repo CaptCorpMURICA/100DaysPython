@@ -19,9 +19,9 @@
 **Learned:** Declaring variables, Using variables in arithmetic operations, Testing for contents in a variable, Changing variable types
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date:** 6/6/2019
 
-**Learned:** 
+**Learned:** Formatting Strings, Changing precision and formatting, Truncating strings
 
 # Day 6: Lists
 **Completion Date:** 
