@@ -24,9 +24,9 @@
 **Learned:** Formatting Strings, Changing precision and formatting, Truncating strings
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** 6/6/2019
 
-**Learned:** 
+**Learned:** Creating lists, Sorting and Counting lists, Combining lists, Appending, Indexing, Inserting, Popping, Removing, and Reversing Methods, Changing lists
 
 # Day 7: Ranges
 **Completion Date:** 

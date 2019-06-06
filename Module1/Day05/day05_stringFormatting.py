@@ -1,4 +1,4 @@
-#modify srtings
+#modify strings
 cheers = "where everybody knows YOUR name."
 cheers.capitalize() # Applies proper casing to the string. 
 cheers.title() # Applies proper casing to the string.
