@@ -1,4 +1,4 @@
-# Day 16: 
+# Day 16: Sets
 **Instructions:** 
 1. Open a new python file.
 2. Similar to dictionaries, sets are unordered collections of data. Unlike dictionaries, sets do not contain key/value pairs. A set should be used over a list only if there is no need for the collection to be ordered. Sets are created with curly brackets (`{}`) or with the `set()` function. _Type and execute:_  
