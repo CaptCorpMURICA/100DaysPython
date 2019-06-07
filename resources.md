@@ -57,3 +57,4 @@ There are countless free and paid resources to learn Python.
 20. [How to Make Mistakes in Python](https://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)
 21. [Functional Programming in Python](https://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
 22. [Python in Education](https://www.oreilly.com/programming/free/files/python-in-education.pdf)
+23. [Real Python](https://realpython.com/)
