@@ -37,11 +37,11 @@ print(menu["item2"])
 # List Comparison
 l_ministry1 = ["silly", "walks"]
 l_ministry2 = ["walks", "silly"]
-l_ministry1 == l_ministry2
+print(l_ministry1 == l_ministry2)
 # Dictionary Comparison
 d_ministry1 = {"a": "silly", "b": "walks"}
 d_ministry2 = {"b": "walks", "a": "silly"}
-d_ministry1 == d_ministry2
+print(d_ministry1 == d_ministry2)
 
 # The keys and values of the dictionary can be called using the `keys()` and `values()` methods. The key/value pairs can
 # also be returned with the `items()` method. These three methods return the respective output in list-like fashion.
