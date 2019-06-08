@@ -34,9 +34,9 @@
 **Learned:** Endpoints of ranges are not inclusive, Using ranges to identify a collection of numbers divisible by a specific value
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:** 6/8/2019
 
-**Learned:** 
+**Learned:** Creating tuples, Making changes to a tuple only using a new tuple, Using a tuple to assign multiple variables, Using a list to make changes inside of a tuple
 
 # Day 9: Index and Slicing
 **Completion Date:** 
