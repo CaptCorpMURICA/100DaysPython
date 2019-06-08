@@ -29,9 +29,9 @@
 **Learned:** Creating lists, Sorting and Counting lists, Combining lists, Appending, Indexing, Inserting, Popping, Removing, and Reversing Methods, Changing lists
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:** 6/8/2019
 
-**Learned:** 
+**Learned:** Endpoints of ranges are not inclusive, Using ranges to identify a collection of numbers divisible by a specific value
 
 # Day 8: Tuples
 **Completion Date:** 
