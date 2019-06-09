@@ -39,9 +39,9 @@
 **Learned:** Creating tuples, Making changes to a tuple only using a new tuple, Using a tuple to assign multiple variables, Using a list to make changes inside of a tuple
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date:** 6/9/2019
 
-**Learned:** 
+**Learned:** Using indexes to retrieve items in a list, Slicing
 
 # Day 10: If/Else
 **Completion Date:** 
