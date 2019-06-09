@@ -88,12 +88,12 @@
 
 **Learned:** 
 
-# Day 19: Functions
+# Day 19: File Input/Output
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 20: File Input/Output
+# Day 20: Functions
 **Completion Date:** 
 
 **Learned:** 
