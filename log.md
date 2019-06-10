@@ -44,9 +44,9 @@
 **Learned:** Using indexes to retrieve items in a list, Slicing
 
 # Day 10: If/Else
-**Completion Date:** 
+**Completion Date:** 6/10/2019
 
-**Learned:** 
+**Learned:** Conditional programming, Elif statements, Nested conditions, Ternary operators 
 
 # Day 11: Augmented Assignments
 **Completion Date:** 
