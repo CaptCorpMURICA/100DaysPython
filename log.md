@@ -59,9 +59,9 @@
 **Learned:** Using for loops, Using a for loop with an if statement, Nested loops, While loops
 
 # Day 13: Continue/Break
-**Completion Date:** 
+**Completion Date:** 6/11/2019
 
-**Learned:** 
+**Learned:** Using continues and breaks in loops
 
 # Day 14: Module 1 Challenge
 **Completion Date:** 
