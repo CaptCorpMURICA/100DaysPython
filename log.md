@@ -54,9 +54,9 @@
 **Learned:** Using augmented assignment operators to iterate a single variable
 
 # Day 12: For/While Loops
-**Completion Date:** 
+**Completion Date:** 6/11/2019
 
-**Learned:** 
+**Learned:** Using for loops, Using a for loop with an if statement, Nested loops, While loops
 
 # Day 13: Continue/Break
 **Completion Date:** 
