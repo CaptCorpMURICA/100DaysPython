@@ -49,9 +49,9 @@
 **Learned:** Conditional programming, Elif statements, Nested conditions, Ternary operators 
 
 # Day 11: Augmented Assignments
-**Completion Date:** 
+**Completion Date:** 6/11/2019
 
-**Learned:** 
+**Learned:** Using augmented assignment operators to iterate a single variable
 
 # Day 12: For/While Loops
 **Completion Date:** 
