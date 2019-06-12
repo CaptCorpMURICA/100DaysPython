@@ -93,4 +93,21 @@
     print(matrix_mult.__doc__)
     print(help(matrix_mult))
     ```
-9. Update the [log file](../../log.md) with what you have learned today.
+9. Type hints do not change the fact that variables in python are mutable, but instead provide guidance on the expected variable types for the inputs and outputs of a function. This information also becomes available within the built-in documentation and autocomplete hints. Additional types can be used for type hints through importing the `typing` module by executing `from typing import X` where _X_ is replaced with the desired type (e.g. Tuple, List, etc.).
+    ```
+    def multi_out(a: int) -> [int, float]:
+        """
+        Takes an integer, adds two, and then calculates the hypotenuse based on the two previous values.
+        :param a: int
+        :return: b: int (a + 2)
+                 c: float (hypotenuse of a and b)
+        """
+        b = a + 2
+        c = (a ** 2 + b ** 2) ** .5
+        return b, c
+
+    a = 5
+    b, c = multi_out(a)
+    print(f"Two more than {a} is {b} and the hypotenuse of those two is {c:.2f}.")
+    ```
+10. Update the [log file](../../log.md) with what you have learned today.

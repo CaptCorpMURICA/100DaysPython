@@ -98,7 +98,7 @@
 
 **Learned:** 
 
-# Day 21: PyTest
+# Day 21: pytest
 **Completion Date:** 
 
 **Learned:** 

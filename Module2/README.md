@@ -5,7 +5,7 @@
 * [Day 18: Packages](../Module2/Day18)
 * [Day 19: File Input/Output](../Module2/Day19)
 * [Day 20: Functions](../Module2/Day20)
-* [Day 21: PyTest](../Module2/Day21)
+* [Day 21: pytest](../Module2/Day21)
 * [Day 22: ](../Module2/Day22)
 * [Day 23: ](../Module2/Day23)
 * [Day 24: ](../Module2/Day24)

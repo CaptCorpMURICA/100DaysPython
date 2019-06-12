@@ -7,7 +7,9 @@
 """
 # Similar to dictionaries, sets are unordered collections of data. Unlike dictionaries, sets do not contain key/value
 # pairs. A set should be used over a list only if there is no need for the collection to be ordered. Sets are created
-# with curly brackets (`{}`) or with the `set()` function.
+# with curly brackets (`{}`) or with the `set()` function.  Sets are best used for applications that contain a
+# collection of stop words. The program is able to scan the contents of a set substantially faster than the contents of
+# a list.
 suspects = {"Verbal", "Keaton", "McManus", "Fenster"}
 investigators = set(["Dave Kujan", "Jack Baer", "Jeff Rabin"])
 print(suspects)
