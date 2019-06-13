@@ -1,4 +1,4 @@
-# Day 21: pytest
+# Day 21: Pytest
 **Instructions:** 
 1. Open a new python file.
 2. With each program created, it is critical that robust testing is performed. The time for testing code is not when it is in production and the best method is to automate the checks. The python standard library contains the [unittest](https://docs.python.org/3/library/unittest.html) package. While this has the advantage of being packaged with python, it is not the best framework available. One of the most widely used testing frameworks in [pytest](https://docs.pytest.org/en/latest/). Since this is not included in the standard library, it will first need to be installed. This is a brief introduction into creating tests for your application; for more information, research Brian Okken through his [website](http://pythontesting.net/) or [podcast](https://testandcode.com/).

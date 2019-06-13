@@ -98,12 +98,12 @@
 
 **Learned:** 
 
-# Day 21: pytest
+# Day 21: Pytest
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 22: _Topic_
+# Day 22: Recursive Functions
 **Completion Date:** 
 
 **Learned:** 
