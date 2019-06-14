@@ -108,12 +108,12 @@
 
 **Learned:** 
 
-# Day 23: _Topic_
+# Day 23: Lambdas
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 24: _Topic_
+# Day 24: Comprehensions and Generators
 **Completion Date:** 
 
 **Learned:** 
@@ -128,7 +128,7 @@
 
 **Learned:** 
 
-# Day 27: _Topic_
+# Day 27: Logging
 **Completion Date:** 
 
 **Learned:** 

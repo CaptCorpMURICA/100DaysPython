@@ -109,13 +109,15 @@ print("The recursive function took {} sec longer than the loop.".format(recursio
 
 
 # Displaying the first 50 values in the Fibonacci sequence with a loop only takes 0.001 seconds. However, completing the
-# same task with a recursive function takes 3 hours 14 minutes. This is because the loop created is only a single level
-# and therefore can complete the task extremely efficiently. However, the recursive function does not store the previous
-# values executed, so as the number of items increases, it exponentially increases the processing time. This can be
-# remedied by using memoization. Memoization is simply caching the previous values so it can be accessed in subsequent
-# calls. This is seen in the method the `for` loop was created. By saving each value to a list, the previous two values
-# can be quickly and efficiently accessed to calculate the subsequent value in the sequence. By implementing
-# memoization, the recursive function took 0.001 seconds to calculate the first 50 values.
+# same task with a recursive function takes 3 hours 14 minutes.  Overall, in order to obtain execution time for each
+# sequence length from 1 to 50, the loop took 0.01 seconds while the recursion program took 8.63 hours. This is because
+# the loop created is only a single level and therefore can complete the task extremely efficiently. However, the
+# recursive function does not store the previous values executed, so as the number of items increases, it exponentially
+# increases the processing time. This can be remedied by using memoization. Memoization is simply caching the previous
+# values so it can be accessed in subsequent calls. This is seen in the method the `for` loop was created. By saving
+# each value to a list, the previous two values can be quickly and efficiently accessed to calculate the subsequent
+# value in the sequence. By implementing memoization, the recursive function took 0.001 seconds to calculate the first
+# 50 values.
 import time
 
 cache = {}
