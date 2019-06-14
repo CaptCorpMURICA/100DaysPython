@@ -64,9 +64,9 @@
 **Learned:** Using continues and breaks in loops
 
 # Day 14: Module 1 Challenge
-**Completion Date:** 
+**Completion Date:** 6/13/2019
 
-**Learned:** 
+**Learned:** looping through a list, nested loops, transformations using ternary operators
 
 # Day 15: _Topic_
 **Completion Date:** 
