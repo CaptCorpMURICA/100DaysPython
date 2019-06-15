@@ -69,9 +69,9 @@
 **Learned:** looping through a list, nested loops, transformations using ternary operators
 
 # Day 15: Dictionaries
-**Completion Date:** 
+**Completion Date:** 6/14/2019
 
-**Learned:** 
+**Learned:** Declaring a dictionary, Calling a dictionary, Converting a dictionary to a tuple, Slicing the key/value, Using the get() method, Using the setdefault() method
 
 # Day 16: Sets
 **Completion Date:** 
