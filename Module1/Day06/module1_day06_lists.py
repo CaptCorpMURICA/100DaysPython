@@ -54,10 +54,10 @@ lines.append("We'll meet again in Spaceballs 2: The Quest for More Money.")
 print(lines)
 # The index of a requested item can be obtained using the `.index()` method.
 luggage = [1, 2, 3, 4, 5]
-luggage.index(2)
+print(luggage.index(2))
 # The frequency of an item in a list can be obtained by using the `.count()` method. This is case sensitive.
 quote = list("YOGURT! I hate Yogurt! Even with strawberries!")
-quote.count("r")
+print(quote.count("r"))
 # The `.insert(index, item)` method can be used to add a new item to the list at a specific position.
 luggage = [1, 2, 4, 5]
 luggage.insert(2, 3)

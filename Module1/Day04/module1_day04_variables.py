@@ -28,7 +28,7 @@ print("Revenge of the Sith was released on May 4, {}.".format(released))
 # Variables are commonly used in arithmetic operations.
 a = 3
 b = 4
-c = a ** 2 + b ** 2
+c = (a ** 2 + b ** 2) ** .5
 print("Pythagorean Theorem: a^2 + b^2 = c^2, so when a = {} and b = {}, then c = {}".format(a, b, c))
 
 # You can test for contents in a variable. If the test results **True**, then the tested condition is in the variable.

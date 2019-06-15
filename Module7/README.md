@@ -13,5 +13,3 @@
 * [Day 96: ](../Module7/Day96)
 * [Day 97: ](../Module7/Day97)
 * [Day 98: Module 7 Challenge](../Module7/Day98)
-* [Day 99: Capstone Project Part 1](../Module7/Capstone)
-* [Day 100: Capstone Project Part 2](../Module7/Capstone)

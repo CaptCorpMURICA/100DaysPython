@@ -68,52 +68,52 @@
 
 **Learned:** looping through a list, nested loops, transformations using ternary operators
 
-# Day 15: _Topic_
+# Day 15: Dictionaries
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 16: _Topic_
+# Day 16: Sets
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 17: _Topic_
+# Day 17: User Input
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 18: _Topic_
+# Day 18: Packages
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 19: _Topic_
+# Day 19: File Input/Output
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 20: _Topic_
+# Day 20: Functions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 21: _Topic_
+# Day 21: Pytest
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 22: _Topic_
+# Day 22: Recursive Functions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 23: _Topic_
+# Day 23: Lambdas
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 24: _Topic_
+# Day 24: Comprehensions and Generators
 **Completion Date:** 
 
 **Learned:** 
@@ -128,7 +128,7 @@
 
 **Learned:** 
 
-# Day 27: _Topic_
+# Day 27: Logging
 **Completion Date:** 
 
 **Learned:** 

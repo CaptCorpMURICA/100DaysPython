@@ -9,9 +9,10 @@
     * [Anaconda](https://docs.anaconda.com/anaconda/install/)
     * [PyCharm](https://www.jetbrains.com/pycharm/documentation/)
     * [VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-4. _Hello World:_ The _Hello World_ exercise is just to validate that everything is installed and working properly.
+4. Watch this talk about Jupyter Notebook from [Joel Grus at REPLACE_Con 2018](). He makes an effective case for **NOT** using Jupyter Notebook. If you choose to complete this course with Anaconda, Spyder is the recommended IDE. It is important to build good habits around effective software development and scientific testing; and Jupyter Notebook does not provide the best avenue to develop that strong foundation.
+5. _Hello World:_ The _Hello World_ exercise is just to validate that everything is installed and working properly.
     1. Open the IDE you just installed and follow the instructions applicable to that choice to create a new python script file.
     2. Type `print("Hello World!")` in the script window.
     3. Execute the script
     4. Congratulations. You just ran your first python program.
-5. Update the [log file](../../log.md) with what you have learned today.
+6. Update the [log file](../../log.md) with what you have learned today.
