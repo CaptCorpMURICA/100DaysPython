@@ -74,9 +74,9 @@
 **Learned:** Declaring a dictionary, Calling a dictionary, Converting a dictionary to a tuple, Slicing the key/value, Using the get() method, Using the setdefault() method
 
 # Day 16: Sets
-**Completion Date:** 
+**Completion Date:** 6/16/2019
 
-**Learned:** 
+**Learned:** Using sets, Unioning sets, Try/except process
 
 # Day 17: User Input
 **Completion Date:** 
