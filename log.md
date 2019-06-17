@@ -79,9 +79,9 @@
 **Learned:** Using sets, Unioning sets, Try/except process
 
 # Day 17: User Input
-**Completion Date:** 
+**Completion Date:** 6/17/2019
 
-**Learned:** 
+**Learned:** Defining user inputs
 
 # Day 18: Packages
 **Completion Date:** 
