@@ -84,9 +84,9 @@
 **Learned:** Defining user inputs
 
 # Day 18: Packages
-**Completion Date:** 
+**Completion Date:** 6/19/2019
 
-**Learned:** 
+**Learned:** Using packages
 
 # Day 19: File Input/Output
 **Completion Date:** 
