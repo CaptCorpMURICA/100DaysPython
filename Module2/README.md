@@ -10,6 +10,6 @@
 * [Day 23: Lambdas](../Module2/Day23)
 * [Day 24: Object-Oriented Programming](../Module2/Day24)
 * [Day 25: List Comprehensions](../Module2/Day25)
-* [Day 26: Map, Filter, and Reduce](../Module2/Day26)
+* [Day 26: Map, Filter, and Zip](../Module2/Day26)
 * [Day 27: Logging](../Module2/Day27)
 * [Day 28: Module 2 Challenge](../Module2/Day28)
