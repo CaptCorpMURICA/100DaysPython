@@ -89,9 +89,9 @@
 **Learned:** Using packages
 
 # Day 19: File Input/Output
-**Completion Date:** 
+**Completion Date:** 6/20/2019
 
-**Learned:** 
+**Learned:** Using the OS package to work with files, Using the open() function to write/read/append files programmatically  
 
 # Day 20: Functions
 **Completion Date:** 

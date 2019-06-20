@@ -26,6 +26,11 @@ for func in dir(__builtins__):
 # chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
 # webbrowser.get(chrome_path).open(url)
  
+import webbrowser
+webbrowser.open_new("https://docs.python.org/3/library/webbrowser.html")
+webbrowser.open_new_tab("https://www.youtube.com/watch?v=CMNry4PE93Y")
+help(webbrowser)
+
 # webbrowser.open("https://docs.python.org/3/library/webbrowser.html")
 # webbrowser.get(chrome_path).open_new("https://www.youtube.com/watch?v=CMNry4PE93Y")
 
