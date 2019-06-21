@@ -113,7 +113,7 @@ def quadratic_formula(a: float, b: float, c: float) -> (float, float):
         logger.debug(f"Positive Root: {pos_root}, Negative Root: {neg_root}")
         return pos_root, neg_root
     except ZeroDivisionError as err:
-        logger.error(f"{a} cannot be equal to zero.\n{err}")
+        logger.error(f"`a` cannot be equal to zero.\n{err}")
         raise
     except TypeError as err:
         logger.error(f"Invalid type.\n{err}")
