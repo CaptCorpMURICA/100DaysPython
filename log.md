@@ -113,17 +113,17 @@
 
 **Learned:** 
 
-# Day 24: Object Oriented Python
+# Day 24: Object-Oriented Programming
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 25: Comprehensions and Generators
+# Day 25: List Comprehensions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 26: Map, Filter, and Reduce
+# Day 26: Map, Filter, and Zip
 **Completion Date:** 
 
 **Learned:** 
@@ -138,7 +138,7 @@
 
 **Learned:** 
 
-# Day 29: _Topic_
+# Day 29: File Manipulations
 **Completion Date:** 
 
 **Learned:** 

@@ -1,4 +1,4 @@
-# Module 2
+# Module 2: Foundational Python II
 * [Day 15: Dictionaries](../Module2/Day15)
 * [Day 16: Sets](../Module2/Day16)
 * [Day 17: User Input](../Module2/Day17)
