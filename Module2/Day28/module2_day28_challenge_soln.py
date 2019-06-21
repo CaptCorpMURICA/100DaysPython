@@ -59,6 +59,7 @@ def cipher_generator(password: str) -> dict:
 
     cipher = dict(zip(list("abcdefghijklmnopqrstuvwxyz"), converted))
     logger.debug(f"The cipher was created successfully:\n{cipher}")
+    print("Password Accepted")
     return cipher
 
 
@@ -114,18 +115,26 @@ logger.info(f"The password received was: {password}")
 cipher = cipher_generator(password=password)
 
 try:
-    msg = []
-    mode = input("""Password accepted. What would you like to do?
-        1: Encrypt Message
-        2: Decrypt Message
-        3: Quit\n""").strip()
+    mode = input("""What would you like to do?
+     1: Encrypt Message
+     2: Decrypt Message
+     3: Enter a New Password
+     4: Quit\n""").strip()
     logger.info(f"The user selected the mode: {mode}")
 except KeyboardInterrupt as err:
     logger.error(f"Program manually closed by user through keyboard interrupt.\n{err}")
     raise
 else:
-    while mode != "3":
-        if mode == "1":
+    while mode != "4":
+        if mode == "0":
+            mode = input("""What would you like to do?
+                    1: Encrypt Message
+                    2: Decrypt Message
+                    3: Enter a New Password
+                    4: Quit\n""").strip()
+            logger.info(f"The user selected the mode: {mode}")
+        elif mode == "1":
+            msg = []
             message = str(input("What is the message for encryption?\n")).lower()
             logger.info(f"The user provided the message: {message}")
             for m in message:
@@ -137,8 +146,9 @@ else:
             logger.info(f"Begin Encryption\nMessage: {msg}\nCipher: {cipher}")
             encrypted_msg = encrypt_msg(msg=msg, cipher=cipher)
             print(f"Your encrypted message is: {encrypted_msg}")
-            mode = "3"
+            mode = "0"
         elif mode == "2":
+            msg = []
             message = str(input("What is the message for decryption?\n")).lower()
             logger.info(f"The user provided the message: {message}")
             for m in message:
@@ -150,16 +160,17 @@ else:
             logger.info(f"Begin Decryption\nMessage: {msg}\nCipher: {cipher}")
             decrypted_msg = decrypt_msg(msg=msg, cipher=cipher)
             print(f"Your decrypted message is: {decrypted_msg}")
-            mode = "3"
+            mode = "0"
         elif mode == "3":
+            password = str(input("What is the new password?\n")).lower()
+            logger.info(f"The user provided the password: {password}")
+            cipher = cipher_generator(password=password)
+            mode = "0"
+        elif mode == "4":
             logger.info("User Initiated Quit")
         else:
             logger.error(f"Invalid option received. {mode} is an invalid option.")
-            print(f"{mode} is an invalid entry. Options are either 1, 2, or 3.")
-            mode = input("""Password accepted. What would you like to do?
-                1: Encrypt Message
-                2: Decrypt Message
-                3: Quit\n""").strip()
-            logger.info(f"The user selected the mode: {mode}")
+            print(f"{mode} is an invalid entry. Options are either 1, 2, 3, or 4.")
+            mode = "0"
 finally:
     print("Thank you for protecting your messages. Have a great day.")
