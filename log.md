@@ -94,14 +94,14 @@
 **Learned:** Using the OS package to work with files, Using the open() function to write/read/append files programmatically  
 
 # Day 20: Functions
-**Completion Date:** 
+**Completion Date:** 6/21/2019
 
-**Learned:** 
+**Learned:** Using functions
 
 # Day 21: Pytest
-**Completion Date:** 
+**Completion Date:** 6/22/2019
 
-**Learned:** 
+**Learned:** Writing test scripts
 
 # Day 22: Recursive Functions
 **Completion Date:** 

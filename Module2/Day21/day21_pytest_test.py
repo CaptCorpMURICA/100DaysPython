@@ -1,18 +1,11 @@
+#first import the pytest package and then import the function to be tested from the other file
 import pytest
 from module2_day21_pytest import BasicCalc
-"""
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day21_pytest_test.py
-    Creation Date:  6/11/2019, 8:13 PM
-    Description:    Learn the basics of pytest. This will conduct tests on the module2_day21_pytest.py file.
-"""
-
 
 def test_add():
     calculator = BasicCalc()
     result = calculator.add(2, 2)
-    assert result == 5
+    assert result ==5
 
 
 def test_subtract():
