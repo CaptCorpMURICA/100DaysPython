@@ -6,7 +6,7 @@
     import os
 
     # First change the working directory to point to the folder containing the files
-    os.chdir(".\\Module3\\Day29\\audio")
+    os.chdir(".\\audio")
 
     # The `.listdir()` function populates the contents of the folder. This can be iterated over to work with the files.
     for file in os.listdir():
