@@ -4,7 +4,7 @@ This module begins the path of applying python in a practical manner. Subsequent
 Image Source: [xkcd](https://xkcd.com/1205/)
 
 * [Day 29: File Manipulations](../Module3/Day29)
-* [Day 30: ](../Module3/Day30)
+* [Day 30: File Search](../Module3/Day30)
 * [Day 31: ](../Module3/Day31)
 * [Day 32: ](../Module3/Day32)
 * [Day 33: ](../Module3/Day33)
