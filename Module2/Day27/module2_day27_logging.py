@@ -13,7 +13,7 @@
 import logging
 import os
 
-os.chdir(".\\Module2\\Day27")
+# os.chdir(".\\Module2\\Day27")
 
 logging.basicConfig(filename="module2_day27_logging.log")
 logger = logging.getLogger()
@@ -43,7 +43,7 @@ logger.warning("This is a custom warning message.")
 import logging
 import os
 
-os.chdir(".\\Module2\\Day27")
+# os.chdir(".\\Module2\\Day27")
 
 log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
 logging.basicConfig(filename="module2_day27_logging.log",
@@ -57,7 +57,7 @@ logger.warning("This is a custom warning message.")
 import logging
 import os
 
-os.chdir(".\\Module2\\Day27")
+# os.chdir(".\\Module2\\Day27")
 
 log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
 logging.basicConfig(filename="module2_day27_logging.log",
@@ -79,7 +79,7 @@ logger.critical("This is a custom critical message.")
 import logging
 import os
 
-os.chdir(".\\Module2\\Day27")
+# os.chdir(".\\Module2\\Day27")
 
 log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
 logging.basicConfig(filename="module2_day27_logging.log",
