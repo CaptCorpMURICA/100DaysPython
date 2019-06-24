@@ -7,7 +7,7 @@
     import logging
     import os
 
-    os.chdir(".\\Module2\\Day27")
+    # os.chdir(".\\Module2\\Day27")
 
     logging.basicConfig(filename="module2_day27_logging.log")
     logger = logging.getLogger()
@@ -30,7 +30,7 @@
     import logging
     import os
 
-    os.chdir(".\\Module2\\Day27")
+    # os.chdir(".\\Module2\\Day27")
 
     log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
     logging.basicConfig(filename="module2_day27_logging.log",
@@ -45,7 +45,7 @@
     import logging
     import os
 
-    os.chdir(".\\Module2\\Day27")
+    # os.chdir(".\\Module2\\Day27")
 
     log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
     logging.basicConfig(filename="module2_day27_logging.log",
@@ -64,7 +64,7 @@
     import logging
     import os
 
-    os.chdir(".\\Module2\\Day27")
+    # os.chdir(".\\Module2\\Day27")
 
     log_formatter = "%(levelname)s: %(asctime)s - %(message)s"
     logging.basicConfig(filename="module2_day27_logging.log",
