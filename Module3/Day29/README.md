@@ -6,7 +6,7 @@
     import os
 
     # First change the working directory to point to the folder containing the files
-    os.chdir(".\\Module3\\Day29")
+    os.chdir(".\\Module3\\Day29\\audio")
 
     # The `.listdir()` function populates the contents of the folder. This can be iterated over to work with the files.
     for file in os.listdir():
@@ -16,7 +16,7 @@
         # of the file name and the file extension.
         file_name, file_ext = os.path.splitext(file)
         
-        # Since the folder contains files other than `.mp3`, the program will be told to ignore all other extensions.
+        # Since the folder can contain files other than `.mp3`, the program will be told to ignore all other extensions.
         if file_ext != ".mp3":
             continue
     
