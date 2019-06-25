@@ -148,42 +148,42 @@
 
 **Learned:** 
 
-# Day 31: Website Login
+# Day 31: Excel Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 32: _Topic_
+# Day 32: PDF Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 33: _Topic_
+# Day 33: CSV Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 34: _Topic_
+# Day 34: Task Scheduler
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 35: _Topic_
+# Day 35: Email/SMS Notifications
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 36: _Topic_
+# Day 36: Mouse/Keyboard Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 37: _Topic_
+# Day 37: Web Scraping
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 38: _Topic_
+# Day 38: Stock Market Data Collection
 **Completion Date:** 
 
 **Learned:** 
