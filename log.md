@@ -104,14 +104,14 @@
 **Learned:** Writing test scripts
 
 # Day 22: Recursive Functions
-**Completion Date:** 
+**Completion Date:** 6/23/2019
 
-**Learned:** 
+**Learned:** recursion
 
 # Day 23: Lambdas
-**Completion Date:** 
+**Completion Date:** 6/24/2019
 
-**Learned:** 
+**Learned:** Using Lambdas, Differences between functions
 
 # Day 24: Comprehensions and Generators
 **Completion Date:** 
