@@ -1,4 +1,4 @@
-# Module 2
+# Module 2: Foundational Python II
 * [Day 15: Dictionaries](../Module2/Day15)
 * [Day 16: Sets](../Module2/Day16)
 * [Day 17: User Input](../Module2/Day17)
@@ -8,8 +8,8 @@
 * [Day 21: Pytest](../Module2/Day21)
 * [Day 22: Recursive Functions](../Module2/Day22)
 * [Day 23: Lambdas](../Module2/Day23)
-* [Day 24: Comprehensions and Generators](../Module2/Day24)
-* [Day 25: ](../Module2/Day25)
-* [Day 26: ](../Module2/Day26)
+* [Day 24: Object-Oriented Programming](../Module2/Day24)
+* [Day 25: List Comprehensions](../Module2/Day25)
+* [Day 26: Map, Filter, and Zip](../Module2/Day26)
 * [Day 27: Logging](../Module2/Day27)
 * [Day 28: Module 2 Challenge](../Module2/Day28)

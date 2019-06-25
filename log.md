@@ -113,17 +113,17 @@
 
 **Learned:** Using Lambdas, Differences between functions
 
-# Day 24: Comprehensions and Generators
+# Day 24: Object-Oriented Programming
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 25: _Topic_
+# Day 25: List Comprehensions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 26: _Topic_
+# Day 26: Map, Filter, and Zip
 **Completion Date:** 
 
 **Learned:** 
@@ -138,67 +138,67 @@
 
 **Learned:** 
 
-# Day 29: _Topic_
+# Day 29: File Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 30: _Topic_
+# Day 30: File Search
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 31: _Topic_
+# Day 31: CSV Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 32: _Topic_
+# Day 32: Excel Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 33: _Topic_
+# Day 33: PDF Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 34: _Topic_
+# Day 34: PowerPoint Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 35: _Topic_
+# Day 35: Task Scheduler
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 36: _Topic_
+# Day 36: Email/SMS Notifications
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 37: _Topic_
+# Day 37: Mouse/Keyboard Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 38: _Topic_
+# Day 38: Web Scraping
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 39: _Topic_
+# Day 39: Stock Market Data Collection
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 40: _Topic_
+# Day 40: Image Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 41: _Topic_
+# Day 41: Creating a Chatbot
 **Completion Date:** 
 
 **Learned:** 

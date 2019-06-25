@@ -1,4 +1,4 @@
-# Module 1
+# Module 1: Foundational Python I
 * [Day 1: Installing Python](../Module1/Day01)
 * [Day 2: Printing in Python](../Module1/Day02)
 * [Day 3: Operators](../Module1/Day03)

@@ -20,11 +20,7 @@ for func in dir(__builtins__):
 import random
 num = random.randint(0, 100)
 for i in range(0, 3):
-    try:
-        guess = int(input("Guess a number between 0 and 100: "))
-    except:
-        print("Please enter a valid integer between 0 and 100.")
-        break
+    guess = int(input("Guess a number between 0 and 100: "))
     if guess == num:
         print("{} is the correct value. You win.".format(guess))
     elif guess < num:
@@ -52,9 +48,8 @@ turtle.done()
 # will be used to launch the content first, but a specific browser can be specified for the task. Additionally, the
 # built-in `help()` function can be used to print the documentation of the package specified in the terminal window.
 import webbrowser
-webbrowser.open("https://docs.python.org/3/library/webbrowser.html")
-chrome = webbrowser.get(using='google-chrome')
-chrome.open_new("https://www.youtube.com/watch?v=CMNry4PE93Y")
+webbrowser.open_new("https://docs.python.org/3/library/webbrowser.html")
+webbrowser.open_new_tab("https://www.youtube.com/watch?v=CMNry4PE93Y")
 help(webbrowser)
 
 # The `time` package is extremely useful for most software development. When doing performance testing, this package can
