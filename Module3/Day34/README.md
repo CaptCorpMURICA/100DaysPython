@@ -1,4 +1,4 @@
-# Day 34: 
+# Day 34: PowerPoint Manipulations
 **Instructions:** 
 1. Open a new python file.
 2. Update the [log file](../../log.md) with what you have learned today.

@@ -30,7 +30,7 @@
     print(areas)
     print(map(lambda r: math.pi * (r ** 2), radii))
     ```
-4. The `filter()` function is similar to the `map()` function where a function is applied to each item in the iterable object. However, `filter()` is used to only return items that return the `True` response. Additionally, the `filter()` function creates a filter object, so the `list()` function is required to store the output in a list.
+4. The `filter()` function is similar to the `map()` function where a function is applied to each item in the iterable object. However, `filter()` is used to only return items that return the `True` response. Additionally, the `filter()` function creates a filter object, so the `list()` function is required to store the output in a list. In order to understand why `lambda i: i % 2` provides a list of odd values, execute `print(int(True))`.
     ```
     # Filter all even values out of a list.
     odds = list(filter(lambda i: i % 2, range(100)))

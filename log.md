@@ -183,7 +183,7 @@
 
 **Learned:** 
 
-# Day 38: Web Scraping
+# Day 38: Web Automation
 **Completion Date:** 
 
 **Learned:** 
