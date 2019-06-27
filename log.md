@@ -114,9 +114,9 @@
 **Learned:** Using Lambdas, Differences between functions
 
 # Day 24: Object-Oriented Programming
-**Completion Date:** 
+**Completion Date:** 6/26/2019
 
-**Learned:** 
+**Learned:** Decorators, Positional Arguments, Classes, Appending changes to classes
 
 # Day 25: List Comprehensions
 **Completion Date:** 
