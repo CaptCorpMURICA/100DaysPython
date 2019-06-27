@@ -124,9 +124,9 @@
 **Learned:** List comprehensions
 
 # Day 26: Map, Filter, and Zip
-**Completion Date:** 
+**Completion Date:** 6/27/2019
 
-**Learned:** 
+**Learned:** Map and filter functions, Zipping lists together
 
 # Day 27: Logging
 **Completion Date:** 
