@@ -119,9 +119,9 @@
 **Learned:** Decorators, Positional Arguments, Classes, Appending changes to classes
 
 # Day 25: List Comprehensions
-**Completion Date:** 
+**Completion Date:** 6/27/2019
 
-**Learned:** 
+**Learned:** List comprehensions
 
 # Day 26: Map, Filter, and Zip
 **Completion Date:** 
