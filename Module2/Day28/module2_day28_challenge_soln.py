@@ -115,11 +115,8 @@ logger.info(f"The password received was: {password}")
 cipher = cipher_generator(password=password)
 
 try:
-    mode = input("""What would you like to do?
-     1: Encrypt Message
-     2: Decrypt Message
-     3: Enter a New Password
-     4: Quit\n""").strip()
+    mode = input("What would you like to do?\n\t1: Encrypt Message\t2: Decrypt Message\t3: Enter a New Password\t4: "
+                 "Quit\n").strip()
     logger.info(f"The user selected the mode: {mode}")
 except KeyboardInterrupt as err:
     logger.error(f"Program manually closed by user through keyboard interrupt.\n{err}")
@@ -127,11 +124,8 @@ except KeyboardInterrupt as err:
 else:
     while mode != "4":
         if mode == "0":
-            mode = input("""What would you like to do?
-                    1: Encrypt Message
-                    2: Decrypt Message
-                    3: Enter a New Password
-                    4: Quit\n""").strip()
+            mode = input("What would you like to do?\n\t1: Encrypt Message\t2: Decrypt Message\t3: Enter a New Password"
+                         "\t4: Quit\n").strip()
             logger.info(f"The user selected the mode: {mode}")
         elif mode == "1":
             msg = []
