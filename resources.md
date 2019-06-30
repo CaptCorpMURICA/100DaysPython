@@ -3,8 +3,8 @@
 2. Your two most used resources in the technology fields:  
   i. [StackOverflow](https://stackoverflow.com/): The Google for the Programmer  
   ii. [Google](https://www.google.com/): The _**ACTUAL**_ Google for the Programmer
-3. [Tech articles](https://www.medium.com/topic/programming)
-4. [Reddit](https://www.reddit.com/r/python)
+3. [Medium Tech articles](https://www.medium.com/topic/programming)
+4. [r/python](https://www.reddit.com/r/python)
 5. Podcasts:  
   i. [Talk Python to Me](https://talkpython.fm/)  
   ii. [Python Bytes](https://pythonbytes.fm/)  
@@ -32,6 +32,8 @@ There are a substantial number of locations online to obtain datasets. These var
 11. [Open Data Philly](https://www.opendataphilly.org)
 12. [St. Louis FED](https://fred.stlouisfed.org)
 13. [Zillow](https://www.zillow.com/research/data/)
+14. [r/datasets](https://www.reddit.com/r/datasets/)
+15. [Deep Learning](http://deeplearning.net/datasets/)
 
 # Learning Resources
 There are countless free and paid resources to learn Python. 
@@ -59,3 +61,4 @@ There are countless free and paid resources to learn Python.
 22. [Python in Education](https://www.oreilly.com/programming/free/files/python-in-education.pdf)
 23. [Real Python](https://realpython.com/)
 24. [ActiveState Code](http://code.activestate.com/)
+25. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
