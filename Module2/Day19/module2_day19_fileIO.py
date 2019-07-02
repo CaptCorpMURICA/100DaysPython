@@ -44,7 +44,7 @@ d.close()
 
 # By using a for loop, all lines in the file can be written in a single operation. Using the `end=''` option, the
 # default newline character is not used to eliminate adding a duplicate newline character.
-with open('declaration.txt', 'r') as d:
+with open('farewell.txt', 'r') as d:
     for lines in d:
         print(lines, end='')
 d.close()

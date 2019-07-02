@@ -3,12 +3,21 @@
     Project:        100DaysPython
     File:           module3_day36_email.py
     Creation Date:  7/1/2019, 8:09 AM
-    Description:    Python Automation Program 8: Email/SMS Notifications
+    Description:    Python Automation Program 8: Email Notifications
 """
 
+# With any automated program, it is critical to create a notification system to provide details when the program is
+# concluded. Python comes with the `smtplib` package in the standard library. This adds the functionality to connect to
+# a mail client and sent mail in an automated fashion. Programs can be created to complete mail merge tasks or just send
+# confirmation when a process is complete. The basic connectivity of `smtplib` only sends emails in basic text format;
+# however, there is also functionality for receiving email or sending HTML emails.
 import smtplib
-from email.message import EmailMessage
+import os
 
+# The login credentials should never be hard coded into the program or even stored as a plain text file on the system
+# (just like this example). A better method would be to prompt the user for the password or stores the username and
+# password as system environment variables. If the credentials are leveraged as variables in the script, make sure to
+# clear the contents the instant it is no longer needed for added security.
 credentials = dict()
 
 with open("credentials.txt", "r") as cred:
@@ -19,79 +28,27 @@ with open("credentials.txt", "r") as cred:
         val = ""
         line = ""
 
+# Creates an SMTP object that uses the smtp address of the email client. For example, "smtp.gmail.com" would be the
+# address for a Gmail account.
+smtpObj = smtplib.SMTP(f'smtp.{credentials["username"].split("@")[1]}', 587)
+smtpObj.ehlo()
 
-msg = EmailMessage()
-msg["Subject"] = "Automated Email Test"
-msg["From"] = credentials["username"]
-msg["To"] = credentials["username"]
-msg.set_content("This is a test of the automated email system.")
-msg.attach("job.log")
+# Puts the connection to the SMTP server into TLS mode to ensure the portal is encrypted.
+smtpObj.starttls()
 
-s = smtplib.SMTP("localhost")
-s.send_message(msg)
+# The `.login()` function is required to log into the email client. If the user is using Gmail, then an app password
+# needs to be generated and used as the password for the login credentials.
+smtpObj.login(credentials["username"], credentials["password"])
 
-# ----------------------------------------------------------------------------------------------------------------
+# The email is then sent while specifying the sender, receiver(s), and the contents of the message. In order to apply a
+# subject line, the `Subject: ` declaration is required, followed by a `\n` to terminate the subject line. Everything
+# that follows is the message body.
+smtpObj.sendmail(credentials["username"], credentials["username"],
+                 f"Subject: Automated Email Test\nDear {os.getlogin()},\nThis is a test of the automated email system.")
 
-# import os
-#
-# smtpObj = smtplib.SMTP(f'smtp.{credentials["username"].split("@")[1]}', 587)
-# smtpObj.ehlo()
-#
-# smtpObj.starttls()
-#
-# smtpObj.login(credentials["username"], credentials["password"])
-# smtpObj.sendmail(credentials["username"], credentials["username"],
-#                  f"Subject: Automated Email Test.\nDear {os.getlogin()}, This is a test of the automated email system.")
-#
-# credentials.clear()
-# smtpObj.quit()
+# For security purposes, the credentials dictionary is cleared so the information contained cannot be pulled.
+credentials.clear()
 
-# ----------------------------------------------------------------------------------------------------------------
-
-# # https://alysivji.github.io/sending-emails-from-python.html
-# # send_email.py
-
-# from email.headerregistry import Address
-# from email.message import EmailMessage
-# import os
-# import smtplib
-#
-# # Gmail details
-# email_address = os.getenv('GMAIL_ADDRESS', None)
-# email_password = os.getenv('GMAIL_APPLICATION_PASSWORD', None)
-#
-# # Recipent
-# to_address = (
-#     Address(display_name='Aly Sivji', username='alysivji', domain='gmail.com'),
-# )
-#
-#
-# def create_email_message(from_address, to_address, subject, body):
-#     msg = EmailMessage()
-#     msg['From'] = from_address
-#     msg['To'] = to_address
-#     msg['Subject'] = subject
-#     msg.set_content(body)
-#     return msg
-#
-#
-# if __name__ == '__main__':
-#     msg = create_email_message(
-#         from_address=email_address,
-#         to_address=to_address,
-#         subject='Hello World',
-#         body="Test sending the body.",
-#     )
-#
-#     with smtplib.SMTP('smtp.gmail.com', port=587) as smtp_server:
-#         smtp_server.ehlo()
-#         smtp_server.starttls()
-#         smtp_server.login(email_address, email_password)
-#         smtp_server.send_message(msg)
-#
-#     print('Email sent successfully')
-#
-# # $ export GMAIL_ADDRESS='alysivji@gmail.com'
-# # $ export GMAIL_APPLICATION_PASSWORD='[INSERT PASSWORD HERE]'
-# # $ python send_email.py
-# # Email sent successfully
+# With the email sent, the smtp object is closed with the `.quit()` function. This closes the connection to the email
+# client.
+smtpObj.quit()
