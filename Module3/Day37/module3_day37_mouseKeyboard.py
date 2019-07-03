@@ -18,7 +18,8 @@ import time
 pyautogui.PAUSE = 0.5
 pyautogui.FAILSAFE = True
 
-# Execute the command to open the file and perform a sleep action to ensure the application has opened before continuing
+# Execute the command to open the file and perform a sleep action to ensure the application has opened before
+# continuing. Depending on the hardware of the machine, the `.sleep()` timer can be extended or contracted.
 sys_platform = sys.platform
 
 if sys_platform == "win32" or sys_platform == "cygwin":
@@ -30,17 +31,18 @@ elif sys_platform == "linux":
 else:
     print(f"Unknown operating system: {sys_platform}")
 
-time.sleep(5)
+time.sleep(10)
 
 # After launching the Word file to be converted to a PDF, focus needs to be applied to the application. The application
 # first sends an `f12` command to try and open the `Save As` dialog box. If `pyautogui` locates the file type field by
 # using an image of the option and the `.locateOnScreen` function, then the program continues. Otherwise, it locates the
 # Microsoft Word icon on the taskbar and clicks on it. Once the focus is confirmed, the program selects the file type
-# field and types `p d f` and then presses enter. Then, the program locates and clicks on the `Save` button. Since the
+# field and types `p d f` and then presses enter once to accept the file type and a second time to save. Since the
 # `.locateOnScreen()` function returns more information than required for the `.click()` function, the `.center()`
 # function is used to only return the `left` and `top` values.
 try:
     pyautogui.press("f12")
+    time.sleep(3)
     type_location = pyautogui.locateOnScreen(".\\icons\\TypeField.png")
     if type_location is None:
         try:
@@ -52,6 +54,7 @@ try:
             raise
         else:
             pyautogui.press("f12")
+            time.sleep(3)
 except TypeError:
     print("Save not found")
     raise
@@ -60,13 +63,4 @@ else:
     pyautogui.click(type_loc)
 
     pyautogui.typewrite(["p", "d", "f"])
-    pyautogui.press("enter")
-
-    try:
-        save_location = pyautogui.locateOnScreen(".\\icons\\Save.png")
-    except TypeError:
-        print("Save not found")
-        raise
-    else:
-        save_loc = pyautogui.center(save_location)
-        pyautogui.click(save_loc)
+    pyautogui.press(["enter", "enter"])

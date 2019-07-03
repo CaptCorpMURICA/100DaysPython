@@ -12,7 +12,7 @@
     pyautogui.PAUSE = 1.5
     pyautogui.FAILSAFE = True
     ```
-4. Execute the command to open the file and perform a sleep action to ensure the application has opened before continuing
+4. Execute the command to open the file and perform a sleep action to ensure the application has opened before continuing. Depending on the hardware of the machine, the `.sleep()` timer can be extended or contracted.
     ```
     sys_platform = sys.platform
 
@@ -25,12 +25,13 @@
     else:
         print(f"Unknown operating system: {sys_platform}")
     
-    time.sleep(5)
+    time.sleep(10)
     ```
-5. After launching the Word file to be converted to a PDF, focus needs to be applied to the application. The application first sends an `f12` command to try and open the `Save As` dialog box. If `pyautogui` locates the file type field by using an image of the option and the `.locateOnScreen` function, then the program continues. Otherwise, it locates the Microsoft Word icon on the taskbar and clicks on it. Once the focus is confirmed, the program selects the file type field and types `p d f` and then presses enter. Then, the program locates and clicks on the `Save` button. Since the `.locateOnScreen()` function returns more information than required for the `.click()` function, the `.center()` function is used to only return the `left` and `top` values.
+5. After launching the Word file to be converted to a PDF, focus needs to be applied to the application. The application first sends an `f12` command to try and open the `Save As` dialog box. If `pyautogui` locates the file type field by using an image of the option and the `.locateOnScreen` function, then the program continues. Otherwise, it locates the Microsoft Word icon on the taskbar and clicks on it. Once the focus is confirmed, the program selects the file type field and types `p d f` and then presses enter once to accept the file type and a second time to save. Since the `.locateOnScreen()` function returns more information than required for the `.click()` function, the `.center()` function is used to only return the `left` and `top` values.
     ```
     try:
         pyautogui.press("f12")
+        time.sleep(2)
         type_location = pyautogui.locateOnScreen(".\\icons\\TypeField.png")
         if type_location is None:
             try:
@@ -42,6 +43,7 @@
                 raise
             else:
                 pyautogui.press("f12")
+                time.sleep(2)
     except TypeError:
         print("Save not found")
         raise
@@ -50,15 +52,6 @@
         pyautogui.click(type_loc)
 
         pyautogui.typewrite(["p", "d", "f"])
-        pyautogui.press("enter")
-
-        try:
-            save_location = pyautogui.locateOnScreen(".\\icons\\Save.png")
-        except TypeError:
-            print("Save not found")
-            raise
-        else:
-            save_loc = pyautogui.center(save_location)
-            pyautogui.click(save_loc)
+        pyautogui.press(["enter", "enter"])
     ```
 6. Update the [log file](../../log.md) with what you have learned today.
