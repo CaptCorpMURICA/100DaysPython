@@ -139,9 +139,9 @@
 **Learned:** 
 
 # Day 29: File Manipulations
-**Completion Date:** 
+**Completion Date:** 7/04/2019
 
-**Learned:** 
+**Learned:** iterating through files in a folder to, Using the splitext() function to create a new tuple, splitting the file name , Using the zfill() method to ensure proper order, using the rename() function to rename each of the files
 
 # Day 30: File Search
 **Completion Date:** 
