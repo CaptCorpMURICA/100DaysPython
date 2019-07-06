@@ -1,9 +1,9 @@
 """
     Author:         CaptCorpMURICA
     Project:        100DaysPython
-    File:           module3_day39_amazon.py
+    File:           module3_day39_scrape.py
     Creation Date:  7/6/2019, 1:12 PM
-    Description:    Python Automation Program 10: Amazon Price Tracker
+    Description:    Python Automation Program 10: Web Scraping
 """
 
 import requests

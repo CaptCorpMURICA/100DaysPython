@@ -1,4 +1,4 @@
-# Day 39: Amazon Price Tracker
+# Day 39: Web Scraping
 **Instructions:** 
 1. Open a new python file.
 2. The `requests` [package](https://2.python-requests.org//en/latest/) is used to open a webpage within python for later manipulations. These manipulations will be completed with the `bs4` [package](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). Beautiful Soup 4 is used to read and parse the HTML code in order to scrape valuable information from the website.

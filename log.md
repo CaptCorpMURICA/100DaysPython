@@ -183,12 +183,12 @@
 
 **Learned:** 
 
-# Day 38: Web Automation
+# Day 38: API Integration
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 39: Amazon Price Tracker
+# Day 39: Web Scraping
 **Completion Date:** 
 
 **Learned:** 

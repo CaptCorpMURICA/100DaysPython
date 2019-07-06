@@ -1,9 +1,9 @@
 """
     Author:         CaptCorpMURICA
     Project:        100DaysPython
-    File:           module3_day38_webAutomation.py
+    File:           module3_day38_api.py
     Creation Date:  7/3/2019, 11:01 AM
-    Description:    Python Automation Program 9: Web Automation
+    Description:    Python Automation Program 9: API Integration
 """
 
 from twitter import Twitter, OAuth
