@@ -188,7 +188,7 @@
 
 **Learned:** 
 
-# Day 39: Stock Market Data Collection
+# Day 39: Amazon Price Tracker
 **Completion Date:** 
 
 **Learned:** 

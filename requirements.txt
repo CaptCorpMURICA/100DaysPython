@@ -6,3 +6,5 @@ seaborn
 python-pptx
 pyautogui
 twitter
+requests
+bs4
