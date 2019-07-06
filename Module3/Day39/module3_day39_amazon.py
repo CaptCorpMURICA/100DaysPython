@@ -66,8 +66,6 @@ def send_mail(title, price, url):
     smtp_obj.quit()
 
 
-# An infinite loop is created to check the price once a day (86,400 seconds in a day). If an email is sent, the program
-# exits.
 if __name__ == '__main__':
     while True:
         check_price()
