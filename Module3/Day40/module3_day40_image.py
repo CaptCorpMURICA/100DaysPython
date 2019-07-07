@@ -3,7 +3,7 @@
     Project:        100DaysPython
     File:           module3_day40_image.py
     Creation Date:  7/6/2019, 4:11 PM
-    Description:    Python Automation Program 11: Image Manipulations
+    Description:    Python Automation Program 12: Image Manipulations
 """
 
 import os

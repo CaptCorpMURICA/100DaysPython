@@ -9,3 +9,4 @@ twitter
 requests
 bs4
 pillow
+slackclient

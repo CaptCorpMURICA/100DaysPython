@@ -3,7 +3,7 @@
     Project:        100DaysPython
     File:           module3_day37_mouseKeyboard.py
     Creation Date:  7/2/2019, 8:17 PM
-    Description:    Python Automation Program 8: Mouse/Keyboard Manipulations
+    Description:    Python Automation Program 9: Mouse/Keyboard Manipulations
 """
 
 # Anytime a program takes charge of the computer, it's critical that the user has a way to terminate the program. The
