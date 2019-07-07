@@ -8,3 +8,4 @@ pyautogui
 twitter
 requests
 bs4
+pillow
