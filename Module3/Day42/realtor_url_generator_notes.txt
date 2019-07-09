@@ -1,0 +1,92 @@
+URL modifications based on filter criteria for Realtor.com
+
+URL = https://www.realtor.com/realestateandhomes-search/{zip_code}/{filter}
+
+Price:
+ - /price-50000-180000: Max & min declared
+ - /price-na-90000: Only max declared
+ - /price-50000-na: Only min declared
+Property Type:
+ - /type-single-family-home: House
+ - /type-condo-townhome-row-home-co-op: Condo/Townhome
+ - /type-multi-family-home: Multi Family
+ - /type-mfd-mobile-home: Mobile/Mfd
+ - /type-farms-ranches: Farm/Ranch
+ - /type-land: Land
+ - /type-land,single-family-home,multi-family-home,condo-townhome-row-home-co-op,farms-ranches: Multi Selection
+Beds:
+ - /beds-2: 2+ Bedrooms (Max=5)
+ - /beds-studio-5: Bedroom range (Studio, 1, 2, 3, 4, 5)
+Baths:
+ - /baths-2: 2+ Bathrooms (Max=4)
+ - /baths-1-5: Bathrooms range (1, 2, 3, 4, 5)
+Listing Status:
+ - /nc-hide: Existing Homes
+ - /shw-nc: New Construction
+ - /pnd-hide: Hide Pending/Contingent
+ - /show-price-reduced: Price Reduced
+ - /show-open-house: Open House
+ - /shw-pr-oh: Price Reduced/Open House
+ - /shw-pr-oh-nc: New Construction/Price Reduced/Open House
+ - /show-open-house/pnd-hide/nc-hide: Existing Homes with Open House and Hide Pending/Contingent
+More Filters:
+ - /dom-30: Days on Realtor (1, 7, 14, 21, 30)
+ - /radius-10: Expanded search radius (1, 2, 5, 10, 20)
+ - /sqft-0-3000: Home Size -> No max: /sqft-1000
+      {min:[No Min, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3250, 3500, 3750, 4000, 5000, 7500],
+       max:[No Max, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3250, 3500, 3750, 4000, 5000, 7500, 1000]}
+ - /lot-sqft-0-21780: Lot Size
+      {min: [No Min: 0, 2000 sqft: 2000, 3000 sqft: 3000, 4000 sqft: 4000, 5000 sqft: 5000, 7500 sqft: 7500, 0.25 acre: 10890, 0.5 acre: 21780, 1 acre: 43560, 2 acres: 87120, 5 acres: 217800, 10 acres: 435600, 15 acres: 653400],
+       max: [No Max:  , 3000 sqft: 3000, 4000 sqft: 4000, 5000 sqft: 5000, 7500 sqft: 7500, 0.25 acre: 10890, 0.5 acre: 21780, 1 acre: 43560, 2 acres: 87120, 5 acres: 217800, 10 acres: 435600, 15 acres: 653400, 20 acres: 871200]}
+ - /age-0+30: Home Age -> No max: /age-5+
+      {min: [No Min: 0, 1 year: 1, 3 years: 3, 5 years: 5, 10 years: 10, 15 years: 15, 20 years: 20, 25 years: 25, 30 years: 30, 50 years: 50, 75 years: 75, 100 years: 100],
+       max: [No Max:  , 1 year: 1, 3 years: 3, 5 years: 5, 10 years: 10, 15 years: 15, 20 years: 20, 25 years: 25, 30 years: 30, 50 years: 50, 75 years: 75, 100 years: 100]}
+ - Stories
+   - /with_singlestory: Single Story -> ss (When other features included)
+   - /features-s2: Multi Story
+ - Heating/Cooling
+   - /with_centralair: Central Air -> ca (When other features included)
+   - /features-he: Central Heat
+   - /features-fa: Forced Air
+ - Inside/Rooms
+   - /with_basement: Basement -> bm (When other features included)
+   - /features-dr: Dining Room
+   - /features-hw: Hardwood Floors
+   - /features-fr: Family Room
+   - /features-fp: Fireplace
+   - /features-do: Den/Office
+   - /features-df: Disability Features
+   - /features-bmhwfp: Basement/Hardwood Floors/Fireplace
+ - Outside Features
+   - /with_swimmingpool: Pool -> sp (When other features included)
+   - /features-hf: Horse Facilities
+   - /features-ht: Spa/Hot Tub
+   - /features-htsp: Spa/Hot Tub/Pool
+ - Lot/Views
+   - /with_waterfront: Waterfront -> wf (When other features included)
+   - /features-cu: Cul-De-Sac
+   - /with_cornerlot: Corner Lot -> cl (When other features included)
+   - /features-gc: Golf Course Lot
+   - /features-hm: Hill/Mountain View
+   - /with_oceanview: Ocean View -> ow (When other features included)
+   - /with_lakeview: Lake View -> lv (When other features included)
+   - /with_river_view: River View -> ri (When other features included)
+   - /features-ovwf: Waterfront/Ocean View
+   - /features-rilvcl: Corner Lot/Lake View/River View
+ - Community Amenities
+   - /with_communitypool: Pool(s) -> cs (When other features included)
+   - /features-co: Spa/Hot Tub(s)
+   - /features-cg: Golf Course
+   - /features-cf: Security Features
+   - /features-cb: Boat Facilities
+   - /with_tenniscourt: Tennis Court(s)-> tn (When other features included)
+   - /features-cc: Clubhouse(s)
+   - /features-sc: Senior Community
+   - /features-tncs: Pool(s)/Tennis Court(s)
+ - Garage
+   - /with_garage1ormore: 1+ -> g1 (When other features included)
+   - /with_garage2ormore: 2+ -> g2 (When other features included)
+   - /with_3cargarage: 3+ -> g3 (When other features included)
+ - Parking
+   - /features-ga: Carport
+   - /with_rvboatparking: RV/Boat Parking -> ga (When other features included)
