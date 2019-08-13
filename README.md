@@ -1,3 +1,6 @@
+# _Under Development_
+This course is currently under development. I am currently pursuing my Executive MBA, so I will develop more lessions when I have time. By the end of Module 3, you will me more than competent to continue learning in your own direction.
+
 # 100 Days of Python
 This exercise is based off the [100 Days of Code framework](https://www.100daysofcode.com/) to teach the basics of python 3. Legacy python will be [deprecated on Jan 1, 2020](https://pythonclock.org/); therefore, this course will be based off the latest version of python.
 
